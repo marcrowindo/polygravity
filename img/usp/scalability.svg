@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="473px" height="235px" viewBox="0 0 473 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M428.520065,210.526161 L24.5643939,210.526161" id="Line-9" stroke="#000000" stroke-width="1.13256" stroke-linecap="square"></path>
+        <path id="Line-9-decoration-1" d="M417.720065,207.526161 L428.520065,210.526161 L417.720065,213.526161" stroke="#000000" stroke-width="1.13256" stroke-linecap="square"></path>
+        <path d="M221.5,15.5 L24.5652174,210.462982" id="Line-9" stroke="#87BC55" stroke-width="1.13256" stroke-linecap="square"></path>
+        <text id="Transaction-throughp" font-family="GTPressura-Light, GT Pressura" font-size="14" font-weight="300" fill="#000000">
+            <tspan x="328" y="232">Transaction throughput</tspan>
+        </text>
+        <text id="Hardware-performance" transform="translate(4.500000, 63.500000) rotate(270.000000) translate(-4.500000, -63.500000) " font-family="GTPressura-Light, GT Pressura" font-size="14" font-weight="300" fill="#000000">
+            <tspan x="-59" y="69">Hardware performance</tspan>
+        </text>
+        <path d="M24.5,15.566474 L24.5,210.463165" id="Line-9" stroke="#000000" stroke-width="1.13256" stroke-linecap="square"></path>
+        <path id="Line-9-decoration-1" d="M21.5,26.366474 L24.5,15.566474 L27.5,26.366474" stroke="#000000" stroke-width="1.13256" stroke-linecap="square"></path>
+    </g>
+</svg>

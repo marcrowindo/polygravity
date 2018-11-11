@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="295px" height="239px" viewBox="0 0 295 239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>privacy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="privacy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Server" transform="translate(215.000000, 22.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="44.5" width="64" height="17" rx="3"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="9" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="31" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="53" r="2"></circle>
+        </g>
+        <g id="Server" transform="translate(25.000000, 1.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="44.5" width="64" height="17" rx="3"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="9" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="31" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="53" r="2"></circle>
+        </g>
+        <g id="Server" transform="translate(13.000000, 154.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="44.5" width="64" height="17" rx="3"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="9" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="31" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="53" r="2"></circle>
+        </g>
+        <g id="Server" transform="translate(189.000000, 177.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="44.5" width="64" height="17" rx="3"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="9" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="31" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="53" r="2"></circle>
+        </g>
+        <path d="M163.5,138.5 L187.5,173.5" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M167.13352,149.103657 L163.5,138.5 L172.081893,145.710487" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-decoration-2" d="M178.918107,166.289513 L187.5,173.5 L183.86648,162.896343" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M62.5,150.5 L110.5,124.5" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M73.4252027,147.994018 L62.5,150.5 L70.5675038,142.718266" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-decoration-2" d="M102.432496,132.281734 L110.5,124.5 L99.5747973,127.005982" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M92.5,65.5 L115.5,81.5" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M99.6525827,74.1302121 L92.5,65.5 L103.07897,69.2047809" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-decoration-2" d="M104.92103,77.7952191 L115.5,81.5 L108.347417,72.8697879" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M203.5,54.5 L165.5,76.5" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M192.650287,57.3149129 L203.5,54.5 L195.656505,62.5074706" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-decoration-2" d="M173.343495,68.4925294 L165.5,76.5 L176.349713,73.6850871" stroke="#292A2B" stroke-linecap="square"></path>
+        <g id="Ledger" transform="translate(121.000000, 75.000000)">
+            <path d="M32.2032809,3.55271368e-15 L40,7.79671913 L40,54 L0,54 L0,0 L32.2032809,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <path d="M31.9961741,0.5 L0.5,0.5 L0.5,53.5 L39.5,53.5 L39.5,8.00382591 L31.9961741,0.5 Z" id="Combined-Shape" stroke="#87BC55"></path>
+            <path d="M31,0.714285714 L31,9.28571429" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+            <path d="M39.2857143,9 L30.7142857,9" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+            <path d="M26.3,9 L6.7,9" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+            <path d="M34.3095238,21 L6.69047619,21" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+            <path d="M34.3095238,32 L6.69047619,32" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+            <path d="M34.3095238,44 L6.69047619,44" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+        </g>
+        <path d="M288,7 L7.5,219.5" id="Line-2" stroke="#F25B44" stroke-width="10" stroke-linecap="square"></path>
+    </g>
+</svg>

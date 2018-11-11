@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="629px" height="420px" viewBox="0 0 629 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>consalgoscalability</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="15" height="20"></rect>
+        <rect id="path-2" x="0" y="0" width="15" height="20"></rect>
+        <rect id="path-3" x="0" y="0" width="15" height="20"></rect>
+        <rect id="path-4" x="0" y="0" width="15" height="20"></rect>
+        <rect id="path-5" x="0" y="0" width="15" height="20"></rect>
+        <rect id="path-6" x="0" y="0" width="15" height="20"></rect>
+        <rect id="path-7" x="0" y="0" width="15" height="20"></rect>
+    </defs>
+    <g id="consalgoscalability" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Classic-Blockchain" font-family="Geogrotesque-Medium, Geogrotesque" font-size="20" font-weight="400" fill="#232224">
+            <tspan x="124" y="14">Classic Blockchain </tspan>
+        </text>
+        <text id="Polygravity" font-family="Geogrotesque-Medium, Geogrotesque" font-size="20" font-weight="400" fill="#232224">
+            <tspan x="376" y="14">Polygravity</tspan>
+        </text>
+        <text id="Before-additional-no" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+            <tspan x="0" y="133">Before additional </tspan>
+            <tspan x="0" y="149">node joins network</tspan>
+        </text>
+        <text id="After-additional-nod" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+            <tspan x="0" y="301">After additional </tspan>
+            <tspan x="0" y="317">node joined network</tspan>
+        </text>
+        <text id="Scope-of-consensus-a" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+            <tspan x="187" y="414">Scope of consensus algorithm</tspan>
+        </text>
+        <path d="M374.5,65.5 L374.5,389.52469" id="Line" stroke="#292A2B" stroke-linecap="square" stroke-dasharray="1,5"></path>
+        <path d="M19.5,221.5 L588.543056,221.5" id="Line" stroke="#292A2B" stroke-linecap="square" stroke-dasharray="1,5"></path>
+        <path d="M122.5,65.5 L122.5,389.52469" id="Line" stroke="#292A2B" stroke-linecap="square" stroke-dasharray="1,5"></path>
+        <g id="Group" transform="translate(320.000000, 80.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+        </g>
+        <g id="Group" transform="translate(253.000000, 180.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+        </g>
+        <path d="M316.5,119.5 L290.5,174.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M309.172083,127.981842 L316.5,119.5 L314.596517,130.546119" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M292.403483,163.453881 L290.5,174.5 L297.827917,166.018158" stroke="#292A2B"></path>
+        <g id="Group" transform="translate(320.000000, 80.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+        </g>
+        <g id="Group" transform="translate(253.000000, 180.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+        </g>
+        <g id="Group" transform="translate(136.000000, 91.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+        </g>
+        <path d="M316.5,119.5 L290.5,174.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M309.172083,127.981842 L316.5,119.5 L314.596517,130.546119" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M292.403483,163.453881 L290.5,174.5 L297.827917,166.018158" stroke="#292A2B"></path>
+        <path d="M311.5,96.5 L175.5,107.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M300.493297,94.3804511 L311.5,96.5 L300.977011,100.360921" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M186.022989,103.639079 L175.5,107.5 L186.506703,109.619549" stroke="#292A2B"></path>
+        <g id="Group-3" transform="translate(580.000000, 80.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+            <g id="Group-2" transform="translate(8.000000, 6.000000)">
+                <g id="Rectangle-18">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#292A2B" stroke-width="1" x="0.5" y="0.5" width="14" height="19"></rect>
+                </g>
+                <path d="M2.5,3.5 L7.5,3.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,7.5 L12.5,7.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,11.5 L12.5,11.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,15.5 L12.5,15.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(513.000000, 180.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+            <g id="Group-2" transform="translate(8.000000, 6.000000)">
+                <g id="Rectangle-18">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#292A2B" stroke-width="1" x="0.5" y="0.5" width="14" height="19"></rect>
+                </g>
+                <path d="M2.5,3.5 L7.5,3.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,7.5 L12.5,7.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,11.5 L12.5,11.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,15.5 L12.5,15.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <g id="Group" transform="translate(276.000000, 136.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="4" y="2" width="68" height="14"></rect>
+            <text id="8’000-tx/sec" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="0" y="13">8’000 tx/sec</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(396.000000, 91.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+            <g id="Group-2" transform="translate(8.000000, 6.000000)">
+                <g id="Rectangle-18">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#292A2B" stroke-width="1" x="0.5" y="0.5" width="14" height="19"></rect>
+                </g>
+                <path d="M2.5,3.5 L7.5,3.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,7.5 L12.5,7.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,11.5 L12.5,11.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,15.5 L12.5,15.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <g id="Group" transform="translate(203.000000, 91.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="2" width="83" height="14"></rect>
+            <text id="4’000-tx/sec" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="10.5595703" y="13">4’000 tx/sec</tspan>
+            </text>
+        </g>
+        <path d="M577.5,119.5 L551.5,174.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M570.172083,127.981842 L577.5,119.5 L575.596517,130.546119" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M553.403483,163.453881 L551.5,174.5 L558.827917,166.018158" stroke="#292A2B"></path>
+        <path d="M572.5,96.5 L436.5,107.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M561.493297,94.3804511 L572.5,96.5 L561.977011,100.360921" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M447.022989,103.639079 L436.5,107.5 L447.506703,109.619549" stroke="#292A2B"></path>
+        <g id="Group" transform="translate(536.000000, 138.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="5" y="0" width="68" height="14"></rect>
+            <text id="12’000-tx/sec" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="0.555664062" y="11">12’000 tx/sec</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(464.000000, 91.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="2" width="83" height="14"></rect>
+            <text id="12’000-tx/sec" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="8.55566406" y="13">12’000 tx/sec</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(320.000000, 242.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+        </g>
+        <g id="Group" transform="translate(253.000000, 342.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+        </g>
+        <path d="M316.5,281.5 L290.5,336.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M309.172083,289.981842 L316.5,281.5 L314.596517,292.546119" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M292.403483,325.453881 L290.5,336.5 L297.827917,328.018158" stroke="#292A2B"></path>
+        <g id="Group" transform="translate(320.000000, 242.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+        </g>
+        <g id="Group" transform="translate(253.000000, 342.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+        </g>
+        <g id="Group" transform="translate(136.000000, 253.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+        </g>
+        <g id="Group" transform="translate(153.000000, 294.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+        </g>
+        <g id="Group-3" transform="translate(580.000000, 242.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+            <g id="Group-2" transform="translate(8.000000, 6.000000)">
+                <g id="Rectangle-18">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#292A2B" stroke-width="1" x="0.5" y="0.5" width="14" height="19"></rect>
+                </g>
+                <path d="M2.5,3.5 L7.5,3.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,7.5 L12.5,7.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,11.5 L12.5,11.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,15.5 L12.5,15.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(513.000000, 342.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+            <g id="Group-2" transform="translate(8.000000, 6.000000)">
+                <g id="Rectangle-18">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <rect stroke="#292A2B" stroke-width="1" x="0.5" y="0.5" width="14" height="19"></rect>
+                </g>
+                <path d="M2.5,3.5 L7.5,3.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,7.5 L12.5,7.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,11.5 L12.5,11.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,15.5 L12.5,15.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(413.000000, 294.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+            <g id="Group-2" transform="translate(8.000000, 6.000000)">
+                <g id="Rectangle-18">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <rect stroke="#292A2B" stroke-width="1" x="0.5" y="0.5" width="14" height="19"></rect>
+                </g>
+                <path d="M2.5,3.5 L7.5,3.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,7.5 L12.5,7.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,11.5 L12.5,11.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,15.5 L12.5,15.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(396.000000, 253.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="11.5" width="32" height="8" rx="1.5"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="32" height="8" rx="1.5"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="5" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="16" r="1"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="29" cy="27" r="1"></circle>
+            <g id="Group-2" transform="translate(8.000000, 6.000000)">
+                <g id="Rectangle-18">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <rect stroke="#292A2B" stroke-width="1" x="0.5" y="0.5" width="14" height="19"></rect>
+                </g>
+                <path d="M2.5,3.5 L7.5,3.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,7.5 L12.5,7.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,11.5 L12.5,11.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+                <path d="M2.5,15.5 L12.5,15.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <path d="M316.5,281.5 L290.5,336.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M309.172083,289.981842 L316.5,281.5 L314.596517,292.546119" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M292.403483,325.453881 L290.5,336.5 L297.827917,328.018158" stroke="#292A2B"></path>
+        <path d="M192.5,330.5 L243.5,357.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M200.641246,338.204551 L192.5,330.5 L203.448573,332.901824" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M232.551427,355.098176 L243.5,357.5 L235.358754,349.795449" stroke="#292A2B"></path>
+        <path d="M311.5,258.5 L175.5,269.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M300.493297,256.380451 L311.5,258.5 L300.977011,262.360921" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M186.022989,265.639079 L175.5,269.5 L186.506703,271.619549" stroke="#292A2B"></path>
+        <g id="Group" transform="translate(277.000000, 298.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="3" y="2" width="68" height="14"></rect>
+            <text id="7’000-tx/sec" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="0.984375" y="13">7’000 tx/sec</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(172.000000, 335.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="4" y="2" width="68" height="14"></rect>
+            <text id="2’000-tx/sec" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="0" y="13">2’000 tx/sec</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(203.000000, 255.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="0" width="83" height="14"></rect>
+            <text id="3’000-tx/sec" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="10.5888672" y="11">3’000 tx/sec</tspan>
+            </text>
+        </g>
+        <path d="M576.5,281.5 L550.5,336.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M569.172083,289.981842 L576.5,281.5 L574.596517,292.546119" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M552.403483,325.453881 L550.5,336.5 L557.827917,328.018158" stroke="#292A2B"></path>
+        <path d="M452.5,330.5 L503.5,357.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M460.641246,338.204551 L452.5,330.5 L463.448573,332.901824" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M492.551427,355.098176 L503.5,357.5 L495.358754,349.795449" stroke="#292A2B"></path>
+        <path d="M571.5,258.5 L435.5,269.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M560.493297,256.380451 L571.5,258.5 L560.977011,262.360921" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M446.022989,265.639079 L435.5,269.5 L446.506703,271.619549" stroke="#292A2B"></path>
+        <g id="Group" transform="translate(535.000000, 298.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="5" y="2" width="68" height="14"></rect>
+            <text id="12’000-tx/sec" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="0.555664062" y="13">12’000 tx/sec</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(434.000000, 335.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="2" y="2" width="68" height="14"></rect>
+            <text id="12’000-tx/sec" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="0.555664062" y="13">12’000 tx/sec</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(463.000000, 255.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="0" width="83" height="14"></rect>
+            <text id="12’000-tx/sec" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="8.55566406" y="11">12’000 tx/sec</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle-20" stroke="#87BC55" x="128.5" y="63.5" width="238" height="151"></rect>
+        <rect id="Rectangle-20" stroke="#87BC55" x="128.5" y="228.5" width="238" height="151"></rect>
+        <rect id="Rectangle-20" stroke="#87BC55" x="123.5" y="399.5" width="19" height="19"></rect>
+        <ellipse id="Oval-10" stroke="#87BC55" transform="translate(504.500000, 263.000000) rotate(-3.000000) translate(-504.500000, -263.000000) " cx="504.5" cy="263" rx="123.5" ry="33"></ellipse>
+        <ellipse id="Oval-10" stroke="#87BC55" transform="translate(563.000000, 307.000000) rotate(123.000000) translate(-563.000000, -307.000000) " cx="563" cy="307" rx="88" ry="33"></ellipse>
+        <ellipse id="Oval-10" stroke="#87BC55" transform="translate(504.500000, 101.000000) rotate(-3.000000) translate(-504.500000, -101.000000) " cx="504.5" cy="101" rx="123.5" ry="33"></ellipse>
+        <ellipse id="Oval-10" stroke="#87BC55" transform="translate(564.000000, 146.000000) rotate(123.000000) translate(-564.000000, -146.000000) " cx="564" cy="146" rx="88" ry="33"></ellipse>
+        <ellipse id="Oval-11" stroke="#87BC55" transform="translate(483.000000, 335.000000) rotate(23.000000) translate(-483.000000, -335.000000) " cx="483" cy="335" rx="88" ry="34"></ellipse>
+        <text id="Global-maximum-=-12’" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+            <tspan x="124" y="34">Global maximum = 12’000 tx./sec. </tspan>
+            <tspan x="288.871094" y="34" font-size="8">(arbitrarily chosen)</tspan>
+        </text>
+        <text id="Global-maximum-=" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+            <tspan x="376" y="34">Global maximum =</tspan>
+        </text>
+        <g id="noun_infinite_1806017_000000-(1)" transform="translate(467.000000, 26.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M4.8596632,10 C3.56396326,10 2.34491331,9.48183702 1.42721335,8.53959856 C0.505838395,7.59517836 -0.000786583277,6.33686048 9.16688375e-07,5 C-0.000786583277,3.66313952 0.505838395,2.40591251 1.42721335,1.46040144 C2.34570081,0.518708411 3.56527576,0 4.8622882,0 C4.8622882,0 4.8630757,0 4.8638632,0 C6.15772565,0 7.37598809,0.518708411 8.29552555,1.46040144 L10.5000005,3.72259191 C11.3287129,2.87307734 12.7044754,1.46176503 12.7044754,1.46176503 C13.6221753,0.519526563 14.8407003,0.000272717356 16.1361377,0.000272717356 L16.1369252,0.000272717356 L16.1377127,0.000272717356 C18.8191501,0.000272717356 21,2.24364569 21,5 C21,6.33795135 20.492325,7.59490564 19.5714751,8.53932584 C18.6537751,9.48156431 17.4349877,9.99972728 16.1379752,9.99972728 C16.1371877,9.99972728 16.1364002,9.99972728 16.1364002,9.99972728 C14.8425378,9.99972728 13.6242753,9.48156431 12.7029004,8.54014399 L10.499213,6.27795353 C9.67128799,7.12746809 8.29526305,8.53905313 8.29526305,8.53905313 C7.37231309,9.48129159 6.15405065,9.99945457 4.8620257,9.99945457 C4.8620257,10 4.8604507,10 4.8596632,10 Z M11.7329629,4.98854587 L13.9316628,7.24610014 C14.5220253,7.84907822 15.3055877,8.18206611 16.1361377,8.18206611 L16.1377127,8.18206611 C16.9708877,8.18206611 17.7544501,7.84962365 18.3421876,7.24610014 C18.9267751,6.64584924 19.2496501,5.84787826 19.2496501,5 C19.2496501,3.24560925 17.8536751,1.81847933 16.1369252,1.81847933 C15.3045377,1.81847933 14.5220253,2.15146722 13.9329753,2.75499073 C12.9218254,3.79295298 12.2269879,4.50556343 11.7329629,4.98854587 Z M4.8636007,1.81847933 L4.8620257,1.81847933 C4.02780074,1.81847933 3.24528828,2.15037635 2.6575508,2.75417258 C2.07138833,3.35496891 1.75008834,4.15239446 1.75008834,5 C1.75008834,5.84787826 2.07138833,6.64584924 2.6575508,7.24610014 C3.24528828,7.84962365 4.02806324,8.18206611 4.8604507,8.18206611 C4.8604507,8.18206611 4.8604507,8.18206611 4.8612382,8.18206611 C5.69178817,8.18206611 6.47535063,7.84907822 7.06676311,7.24446384 C8.07843806,6.20731973 8.77222553,5.49470928 9.26625051,5.012545 L7.06571311,2.75417258 C6.47718813,2.15037635 5.69415067,1.81847933 4.8636007,1.81847933 Z" id="Shape"></path>
+        </g>
+        <path d="M153.5,399.5 L147.5,418.5" id="Line-3" stroke="#292A2B" stroke-linecap="square"></path>
+        <circle id="Oval" stroke="#87BC55" cx="167" cy="409" r="10"></circle>
+    </g>
+</svg>
