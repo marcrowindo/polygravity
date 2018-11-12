@@ -347,7 +347,13 @@ section, .section {
   color: #fff !important; }
 
 .btn:hover {
-  opacity: 0.65; }
+  opacity: 0.65;
+  cursor: pointer;}
+
+  .btn.inactive:hover {
+    opacity: 1 !important;
+    cursor: normal;
+  }
 
 .btn-border:focus, .btn-dark-border:focus, .btn-gray:focus, .btn-border:focus, .btn-white:focus, .btn-universal:focus, .btn-violet:focus {
   opacity: 1; }
@@ -477,7 +483,7 @@ a .fa {
 .navbar-custom .navbar-brand:focus {
   outline: 0; }
 .navbar-custom .navbar-brand .navbar-toggle {
-  padding: 4px 6px;
+  padding: 6px 6px;
   font-size: 16px;
   color: #fff; }
   .navbar-custom .navbar-brand .navbar-toggle:focus, .navbar-custom .navbar-brand .navbar-toggle:active {
@@ -1839,6 +1845,10 @@ section.bg-dark .fa, section.bg-dark2 .fa {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+#tabs .image-container.exception {
+  display: block !important;
 }
 
 #tabs #sdf p {

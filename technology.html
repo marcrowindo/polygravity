@@ -125,8 +125,8 @@
             </li>
             <li role="presentation">
               <a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab">
-                <h5>Client</h5>
-                <span>Hardware</span>
+                <h5>Hardware</h5>
+                <span>Recommendations</span>
               </a>
             </li>
           </ul>
@@ -185,11 +185,11 @@
               </div>
 
               <!-- ESDP Tab Content -->
-              <div id="tab2" role="tabpanel" class="tab-pane fade in active">
+              <div id="tab2" role="tabpanel" class="tab-pane fade">
 
                 <div class="mini-intro">
                   <p>Polygravity's private ledgers provide immutable transaction data at maximum privacy.</p>
-                  <button type="button" class="btn btn-dark-border btn-lg"><h5>ESDP white paper release: Summer 2019<h5></button>
+                  <button type="button" class="btn btn-dark-border btn-lg inactive"><h5>ESDP white paper release: Summer 2019<h5></button>
                   </div>
 
                   <div class="explanation-container">
@@ -225,11 +225,11 @@
                 </div>
 
                 <!-- Tab EADP -->
-                <div id="tab3" role="tabpanel" class="tab-pane fade in active">
+                <div id="tab3" role="tabpanel" class="tab-pane fade">
 
                   <div class="mini-intro">
-                    <p>Polygravity's consensus algorithm delivers limitless system scalability and high-end trust mechanisms <br> to enable trustless trading.</p>
-                    <button type="button" class="btn btn-dark-border btn-lg"><h5>EADP white paper release: Winter 2019<h5></button>
+                    <p>Polygravity's consensus algorithm enables limitless system scalability and delivers high-end security mechanisms effectively empowering trade in scenarios where interacting parties do not trust eachother.</p>
+                    <button type="button" class="btn btn-dark-border btn-lg inactive"><h5>EADP white paper release: Winter 2019<h5></button>
                     </div>
 
                     <div class="mini-intro">
@@ -247,29 +247,39 @@
                     </div>
 
                     <div class="explanation-container">
-                      <div class="col-lg-6 image-container">
-                        <img src="img/usp/scalability.png" alt="">
+                      <div class="col-lg-6 image-container exception">
+                        <img src="img/technology/accountants.svg" alt="">
                       </div>
                       <div class="col-lg-6 text-container">
-                        <h4>Modular security architecture</h4>
-                        <p>Quantum computing proof and DDoS hardened system architecture is achieved through easily exchangeable encryption modules that can be adapted to new and evolving system threats.</p>
-                      </div>
-                    </div>
+                        <h4>Clients & accountants</h4>
+                        <p>Polygravity's system creates consensus between parties via an agreement mechanism involving third party accountants, as illustrated.</p>
+                        <h5>Clients</h5>
+                        <p>Clients are authenticated devices that are allowed to initiate / authorize transactions. You can think of them as the hardware of the actual user. Clients store only settled transaction hashes to minimize storage requirements on the client node.</p>
 
-                    <div class="explanation-container">
-                      <div class="col-lg-6 text-container">
-                        <h4>Encryption & authentification</h4>
-                        <p>The PSDP features double layer encryption, meaning that transactions are encrypted by both the application that generates the transaction and the operating system running the application. This ensures that the applications which communicate remain unidentifiable to potential eavesdroppers. Transmission layer based authentication allows for identification of communicating parties to each other exclusively, further reducing feasibility of DDoS attacks.</p>
-                      </div>
-                      <div class="col-lg-6 image-container">
-                        <img src="img/usp/scalability.png" alt="">
+                        <h5>Accountants</h5>
+                        <span>Accountants are third parties (such as Polygravity or other providers) that:</span>
+                        <ol>
+                          <li>Ensure clients reached consensus on a transaction before it is executed.</li>
+                          <li>Validate, verify, clear and trigger settlement of transactions.</li>
+                          <li>Notarize and store transaction data in a private ledger / blockchain on their node(s) for their clients.</li>
+                          <li>Are legally responsible for the execution of the agreed upon transaction.</li>
+                          <li>Have access to the transaction data of their respective clients.</li>
+                        </ol>
+
+                        <h5>Accountant consensus protocol benefits</h5>
+                        <ol>
+                          <li>Maximize throughput capabilities of system compared to other blockchain-based systems.</li>
+                          <li>Clearly assigns legal responsibilities to specific parties involved in a transaction and proofs fulfillment of legal responsibilities by those parties.</li>
+                          <li>Client nodes delegate the managing and storing of blockchain data to their accountants. This allows client nodes to be exeptionally “thin” (see hardware tab).</li>
+                        </ol>
+
                       </div>
                     </div>
 
                   </div>
 
                   <!-- Tab Hardware -->
-                  <div id="tab4" role="tabpanel" class="tab-pane fade in active">
+                  <div id="tab4" role="tabpanel" class="tab-pane fade">
 
                     <div class="mini-intro">
                       <p>Polygravity has no hardware component, however, the client's hardware setup has a significant impact<br>on system security and performance.</p>
@@ -277,12 +287,12 @@
 
                     <div class="explanation-container">
                       <div class="col-lg-6 text-container">
-                        <h4>Low minimum hardware requirements</h4>
-                        <p>Polygravity’s system can work with comparatively primitive hardware. Cryptographic security level and transaction throughput are dependent on hardware performance, however, as explained in the EADP section, the transaction audit trail is stored on the accountants’ systems and not the transaction initiating client node.</p>
-                        <h5>Minimum hardware requirements:</h5>
+                        <h4>Low minimum hardware requirements for clients</h4>
+                        <p>Polygravity’s clients can work with comparatively primitive hardware. Cryptographic security level and transaction throughput are dependent on hardware performance, however, as explained in the EADP section, the transaction audit trail is stored on the accountants’ systems and not the transaction initiating client node.</p>
+                        <h5>Minimum client hardware requirements:</h5>
                         <ol>
                           <li>IPV6 ready</li>
-                          <li>Storage capacity for private keys (starting at 256 bytes)</li>
+                          <li>Storage capacity for private keys (we recommend no lower than 256 bytes, depending on the use case)</li>
                           <li>Must have computing capacity to encrypt, decrypt, digitally sign transactions and create authentication codes.</li>
                         </ol>
                       </div>
@@ -298,14 +308,14 @@
                       </div>
                       <div class="col-lg-6 text-container">
                         <h4>Linearly scalable transaction throughput</h4>
-                        <p>Initial load tests on an outdated 2009 2.93 GHz i7 870 processor with 4 cores yielded 12’000 transaction- packets per second with a transaction-packet size of 512 bytes of random data per transaction.<br>However, the transaction processing algorithm is perfectly parallel, such that doubling the computational resources will double the transaction throughput (ceteris paribus). Otherwise put: Faster hardware will deliver more transactions per second in a linear fashion, meaning that a modern midrange performance server CPU, like many AMD EPYC CPUs, with 16 cores instead of 4 would deliver a <b>transaction-packet throughput of 48’000 per second</b>. Assuming that cores did not become any faster in the past 9 years.</p>
+                        <p>As mentioned in the EADP section, Polygravity's system does not have a global transaction throughput limit. However, localy between two transacting parties, transaction packet throughput is dependent on hardware processing capacity.<br><br>Initial load tests on an outdated 2009 2.93 GHz i7 870 processor with 4 cores yielded 12’000 transaction- packets per second with a transaction-packet size of 512 bytes of random data per transaction.<br>However, the transaction processing algorithm is perfectly parallel, such that doubling the computational resources will double the transaction throughput (ceteris paribus). Otherwise put: Faster hardware will deliver more transactions per second in a linear fashion, meaning that a modern midrange performance server CPU, like many AMD EPYC CPUs, with 16 cores instead of 4 would deliver a <b>transaction-packet throughput of 48’000 per second</b>. Assuming that cores did not become any faster in the past 9 years.</p>
                       </div>
                     </div>
 
                     <div class="explanation-container">
                       <div class="col-lg-6 text-container">
                         <h4>Maximum security with high avalability clusters [HAC]</h4>
-                        <p>All parties in the network are able to create HACs in order to ensure maximum data availability and security of their system. A HAC consists of multiple nodes (current maximum at 12) that synchronize via private blockchains and together act as a single party (accountant or client).<br>By bringing together 3 nodes or more in one party, byzantine failure tolerance is achieved, meaning that one third of all nodes can be overtaken by enemies who act maliciously without the system being disturbed. If more than 3 nodes are brought together only a third + 1 nodes must be operational, a third of all nodes can be overtaken by enemies, and the remaining nodes can be down without the system experiencing any disturbances.<br>Because private ledgers are stored with the accountants, high availability clusters are usually less interesting to clients.</p>
+                        <p>All parties in the network are able to create HACs in order to ensure maximum data availability and security of their system. One HAC consists of multiple nodes (current maximum at 12) that synchronize via private blockchains and together act as a single party (accountant or client).<br>By bringing together 3 nodes or more in one party, byzantine failure tolerance is achieved, meaning that one third of all nodes can be overtaken by enemies who act maliciously without the system being disturbed. If more than 3 nodes are brought together only a third + 1 nodes must be operational, a third of all nodes can be overtaken by enemies, and the remaining nodes can be down without the system experiencing any disturbances.<br>Because private ledgers are stored with the accountants, high availability clusters are usually less interesting to clients.</p>
                       </div>
                       <div class="col-lg-6 image-container">
                         <img src="img/technology/cluster.svg" alt="">
@@ -336,7 +346,7 @@
                 <div class="col-md-12">
                   <div class="col-md-9">
                     <p>
-                      The below example illustrates the workings of the combination of PSDP, ESDP and EADP in a scenario where a telecom operator uses Polygravity's system in order to bill their customer for network usage.<br>
+                      The below example illustrates the workings of the combination of <b>PSDP</b>, <b>ESDP</b> and <b>EADP</b> in a scenario where a telecom operator uses Polygravity's system in order to bill their customer for network usage.<br><br>
                       Billing is executed based on unalterable billing data which was notarized by both parties. Billing transactions occur in real-time and are settled by both parties’ accountants and transaction data is stored immutably on the accountants’ hardware. <br>
                       The scalability of Polygravity’s system allows every network user, be that IoT sensors, phones, etc. to be billed separately in real-time without reaching any transaction throughput ceilings.
                     </p>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="518px" height="517px" viewBox="0 0 518 517" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>accountants</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="accountants" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M34.5,198.479731 L34.5,420.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M31.5,209.279731 L34.5,198.479731 L37.5,209.279731" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M31.5,409.7 L34.5,420.5 L37.5,409.7" stroke="#292A2B"></path>
+        <path d="M401.5,232.489362 L401.5,420.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M398.5,243.289362 L401.5,232.489362 L404.5,243.289362" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M398.5,409.7 L401.5,420.5 L404.5,409.7" stroke="#292A2B"></path>
+        <path d="M361.5,68.5 L71.5,420.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M352.317291,74.9278964 L361.5,68.5 L356.948113,78.7430621" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M76.0518874,410.256938 L71.5,420.5 L80.6827092,414.072104" stroke="#292A2B"></path>
+        <path d="M71.5,70.5 L357.5,420.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M76.0107078,80.7612629 L71.5,70.5 L80.6568164,76.9647283" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M348.343184,414.035272 L357.5,420.5 L352.989292,410.238737" stroke="#292A2B"></path>
+        <path d="M359.5,33.5 L75.1872182,33.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M348.7,30.5 L359.5,33.5 L348.7,36.5" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M85.9872182,30.5 L75.1872182,33.5 L85.9872182,36.5" stroke="#292A2B"></path>
+        <path d="M359.5,460.5 L75.1872182,460.5" id="Path-2" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-1" d="M348.7,457.5 L359.5,460.5 L348.7,463.5" stroke="#292A2B"></path>
+        <path id="Path-2-decoration-2" d="M85.9872182,457.5 L75.1872182,460.5 L85.9872182,463.5" stroke="#292A2B"></path>
+        <g id="Server">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="44.5" width="64" height="17" rx="3"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="9" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="31" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="53" r="2"></circle>
+        </g>
+        <g id="Group" transform="translate(370.000000, 0.000000)">
+            <g id="Server">
+                <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="64" height="17" rx="3"></rect>
+                <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="64" height="17" rx="3"></rect>
+                <rect id="Rectangle" stroke="#292A2B" x="0.5" y="44.5" width="64" height="17" rx="3"></rect>
+                <circle id="Oval-8" fill="#292A2B" cx="57" cy="9" r="2"></circle>
+                <circle id="Oval-8" fill="#292A2B" cx="57" cy="31" r="2"></circle>
+                <circle id="Oval-8" fill="#292A2B" cx="57" cy="53" r="2"></circle>
+            </g>
+            <g id="Ledger" transform="translate(18.000000, 12.000000)">
+                <path d="M23.4228355,-3.55271368e-15 L29,5.57716447 L29,39 L0,39 L0,0 L23.4228355,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <path d="M23.2157288,0.5 L0.5,0.5 L0.5,38.5 L28.5,38.5 L28.5,5.78427125 L23.2157288,0.5 Z" id="Combined-Shape" stroke="#87BC55"></path>
+                <path d="M22.5,0.5 L22.5,6.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+                <path d="M28.5,6.5 L22.5,6.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+                <path d="M18.5,6.5 L4.5,6.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+                <path d="M24.5,15.5 L4.5,15.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+                <path d="M24.5,23.5 L4.5,23.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+                <path d="M24.5,31.5 L4.5,31.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <g id="Server" transform="translate(0.000000, 431.000000)">
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="64" height="17" rx="3"></rect>
+            <rect id="Rectangle" stroke="#292A2B" x="0.5" y="44.5" width="64" height="17" rx="3"></rect>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="9" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="31" r="2"></circle>
+            <circle id="Oval-8" fill="#292A2B" cx="57" cy="53" r="2"></circle>
+        </g>
+        <g id="Group" transform="translate(370.000000, 431.000000)">
+            <g id="Server">
+                <rect id="Rectangle" stroke="#292A2B" x="0.5" y="0.5" width="64" height="17" rx="3"></rect>
+                <rect id="Rectangle" stroke="#292A2B" x="0.5" y="22.5" width="64" height="17" rx="3"></rect>
+                <rect id="Rectangle" stroke="#292A2B" x="0.5" y="44.5" width="64" height="17" rx="3"></rect>
+                <circle id="Oval-8" fill="#292A2B" cx="57" cy="9" r="2"></circle>
+                <circle id="Oval-8" fill="#292A2B" cx="57" cy="31" r="2"></circle>
+                <circle id="Oval-8" fill="#292A2B" cx="57" cy="53" r="2"></circle>
+            </g>
+            <g id="Ledger" transform="translate(18.000000, 12.000000)">
+                <path d="M23.4228355,-3.55271368e-15 L29,5.57716447 L29,39 L0,39 L0,0 L23.4228355,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <path d="M23.2157288,0.5 L0.5,0.5 L0.5,38.5 L28.5,38.5 L28.5,5.78427125 L23.2157288,0.5 Z" id="Combined-Shape" stroke="#87BC55"></path>
+                <path d="M22.5,0.5 L22.5,6.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+                <path d="M28.5,6.5 L22.5,6.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+                <path d="M18.5,6.5 L4.5,6.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+                <path d="M24.5,15.5 L4.5,15.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+                <path d="M24.5,23.5 L4.5,23.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+                <path d="M24.5,31.5 L4.5,31.5" id="Line" stroke="#87BC55" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <text id="Client-A" font-family="GTPressura-Bold, GT Pressura" font-size="12" font-weight="bold" fill="#292A2B">
+            <tspan x="0" y="85">Client A</tspan>
+        </text>
+        <text id="Client-B" font-family="GTPressura-Bold, GT Pressura" font-size="12" font-weight="bold" fill="#292A2B">
+            <tspan x="0" y="516">Client B</tspan>
+        </text>
+        <text id="Accountant-A" font-family="GTPressura-Bold, GT Pressura" font-size="12" font-weight="bold" fill="#292A2B">
+            <tspan x="370" y="85">Accountant A</tspan>
+        </text>
+        <text id="Accountant-B" font-family="GTPressura-Bold, GT Pressura" font-size="12" font-weight="bold" fill="#292A2B">
+            <tspan x="370" y="516">Accountant B</tspan>
+        </text>
+        <text id="E.g.-telecom-operato" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+            <tspan x="0" y="105">E.g. telecom </tspan>
+            <tspan x="0" y="121">operator, notices </tspan>
+            <tspan x="0" y="137">network usage of </tspan>
+            <tspan x="0" y="153">customer (client B) </tspan>
+            <tspan x="0" y="169">and initiates </tspan>
+            <tspan x="0" y="185">transaction.</tspan>
+        </text>
+        <text id="E.g.-Polygravity-or" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+            <tspan x="370" y="105">E.g. Polygravity or </tspan>
+            <tspan x="370" y="121">other third party </tspan>
+            <tspan x="370" y="137">service, validates </tspan>
+            <tspan x="370" y="153">verifies, clears and </tspan>
+            <tspan x="370" y="169">initiates settling of </tspan>
+            <tspan x="370" y="185">transaction in </tspan>
+            <tspan x="370" y="201">conjunction with </tspan>
+            <tspan x="370" y="217">Accountant B.</tspan>
+        </text>
+    </g>
+</svg>
