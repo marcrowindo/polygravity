@@ -1957,32 +1957,30 @@ section.bg-dark .fa, section.bg-dark2 .fa {
 #tabs .image-container {
   padding: 100px 0px 35px 0px;
   display: inline-block;
+  text-align: center;
 }
 
 #tabs .mobile-version {
   display: inline-block !important;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #tabs img {
   max-width: 300px !important;
 }
-
-
+#tabs #consensus.image-container {
+  padding-top: 20px;
+  padding-bottom: 120px;
+}
+#tabs #consensus img {
+  max-width: 800px !important;
+}
+#tabs #accountants.image-container {
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+#tabs #accountants img {
+  max-width: 500px !important;
+}
 
 
 
@@ -2213,6 +2211,14 @@ ul.list-inline.social-media {
   }
   .nav-tabs li {
     width: 100px !important;
+  }
+  #tabs #consensus img {
+    width: 100%;
+    height: auto;
+  }
+  #tabs #accountants img {
+    width: 100%;
+    height: auto;
   }
 }
 
