@@ -143,11 +143,9 @@
                 </div>
 
                 <div class="explanation-container">
-
                   <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none">
                     <img src="img/technology/transmission.svg" alt="">
                   </div>
-
                   <div class="col-lg-6 col-xs-12 text-container">
                     <h4>Increased transport layer throughput in real-time</h4>
                     <p>Polygravity’s PSDP replaces TCP/UDP and other related transport layer protocols that limit the amount of possible parallel connections in a network. All PSDP communications support real-time semantics, meaning that all transactions occur in real-time.</p>
@@ -163,11 +161,12 @@
                 </div>
 
                 <div class="explanation-container">
-
-                  <div class="col-lg-6 col-xs-12 image-container">
+                  <div class="col-lg-6 image-container desktop-version">
                       <img src="img/technology/modularity.svg" alt="">
                   </div>
-
+                  <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none;">
+                      <img src="img/technology/modularity.svg" alt="">
+                  </div>
                   <div class="col-lg-6 col-xs-12 text-container">
                     <h4>Modular security architecture</h4>
                     <p>The PSDP is quantum computing proof and DDoS hardened due to a highly modular system architecture. Encryption modules can easily be exchanged by every transacting party individually to allow for adaptation to new and evolving system threats.</p>
@@ -175,7 +174,7 @@
                 </div>
 
                 <div class="explanation-container">
-                  <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none">
+                  <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none;">
                     <img src="img/technology/encryption.svg" alt="">
                   </div>
                   <div class="col-lg-6 col-xs-12 text-container">
@@ -193,21 +192,27 @@
 
                 <div class="mini-intro">
                   <p>Polygravity's private ledgers provide immutable transaction data at maximum privacy.</p>
-                  <button type="button" class="btn btn-dark-border btn-lg inactive"><h5>ESDP white paper release: Summer 2019<h5></button>
+                  <button type="button" class="btn btn-dark-border btn-lg inactive"><h5>ESDP white paper release: 2019<h5></button>
                   </div>
 
                   <div class="explanation-container">
+                    <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none;">
+                      <img src="img/technology/immutable.svg" alt="">
+                    </div>
                     <div class="col-lg-6 col-xs-12 text-container">
                       <h4>Immutable data</h4>
                       <p>By distributing block hashes amongst communicating parties, the transacting ledgers become interlocked with each other and their data immutable. As a result, ESDP data can be used as court evidence to prove that occured trades were executed under consensus of both transacting parties.</p>
                     </div>
-                    <div class="col-lg-6 col-xs-12 image-container">
+                    <div class="col-lg-6 col-xs-12 image-container desktop-version" >
                       <img src="img/technology/immutable.svg" alt="">
                     </div>
                   </div>
 
                   <div class="explanation-container">
-                    <div class="col-lg-6 col-xs-12 image-container">
+                    <div class="col-lg-6 col-xs-12 image-container desktop-version">
+                      <img src="img/technology/privacy.svg" alt="">
+                    </div>
+                    <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none;">
                       <img src="img/technology/privacy.svg" alt="">
                     </div>
                     <div class="col-lg-6 col-xs-12 text-container">
@@ -217,41 +222,58 @@
                   </div>
 
                   <div class="explanation-container">
+                    <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none;">
+                      <img src="img/technology/forgotten.svg" alt="">
+                    </div>
                     <div class="col-lg-6 col-xs-12 text-container">
                       <h4>Right to be forgotten</h4>
                       <p>According to data protection laws, customers have the right to have their data deleted. Due to perpetual record storage attributes of classic bockchain systems this produces friction between blockchain-based systems and privacy laws.<br>Polygravity solves this problem by allowing transacting parties to “forget” about blocks after an individually configurable time period. However, much like in a double-entry bookkeeping system, every transacting party holds an immutable and fully notarized record of every transaction it made with other system participants. As a result, even if a trading party would delete their complete transaction history, other parties could still prove what transactions have been made between them and the party who deleted their records.</p>
                     </div>
-                    <div class="col-lg-6 col-xs-12 image-container">
+                    <div class="col-lg-6 col-xs-12 image-container desktop-version">
                       <img src="img/technology/forgotten.svg" alt="">
                     </div>
                   </div>
 
                 </div>
 
+
                 <!-- Tab EADP -->
                 <div id="tab3" role="tabpanel" class="tab-pane fade">
 
                   <div class="mini-intro">
                     <p>Polygravity's consensus algorithm enables limitless system scalability and delivers high-end security mechanisms effectively empowering trade in scenarios where interacting parties do not trust eachother.</p>
-                    <button type="button" class="btn btn-dark-border btn-lg inactive"><h5>EADP white paper release: Winter 2019<h5></button>
+                    <button type="button" class="btn btn-dark-border btn-lg inactive"><h5>EADP white paper release: 2019<h5></button>
                     </div>
 
-                    <div class="mini-intro">
 
-                    </div>
+
+
+
 
                     <div class="explanation-container">
+
                       <div class="col-lg-5 col-xs-12 text-container">
+
                         <h4>Limitless transaction throughput</h4>
                         <p>Polygravity's EADP validates transactions locally between two transacting parties. As a result the system exhibits a <em>runtime complexity of O(1)</em> meaning that there is no loss in system efficiency when new parties join the network. In other words: Every joining node ads to the global amount of transactions that can be processed in the system.<br> In contrast, classic blockchain-based networks come with <em>global</em> consensus algorithms that validate transactions <em>globally</em>, in the entire system, which means that there is a <em>global limit</em> to their transaction throughput. In other words: Every joining node reduces the average transaction throughput capability of each node (ceteris paribus) and the global transaction throughput limit remains constant.</p>
+
                       </div>
+
                       <div class="col-lg-7 col-xs-12 image-container">
+
                         <img src="img/technology/consalgoscalability.svg" alt="">
+
                       </div>
                     </div>
 
+
+
+
+
+
+
                     <div class="explanation-container">
-                      <div class="col-lg-6 col-xs-12 image-container exception">
+                      <div class="col-lg-6 col-xs-12 image-container desktop-version">
                         <img src="img/technology/accountants.svg" alt="">
                       </div>
                       <div class="col-lg-6 col-xs-12 text-container">
@@ -278,9 +300,17 @@
                         </ol>
 
                       </div>
+                      <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none;">
+                        <img src="img/technology/accountants.svg" alt="">
+                      </div>
                     </div>
 
                   </div>
+
+
+
+
+
 
                   <!-- Tab Hardware -->
                   <div id="tab4" role="tabpanel" class="tab-pane fade">
@@ -290,6 +320,9 @@
                     </div>
 
                     <div class="explanation-container">
+                      <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none;">
+                        <img src="img/technology/hardware.svg" alt="">
+                      </div>
                       <div class="col-lg-6 col-xs-12 text-container">
                         <h4>Low minimum hardware requirements for clients</h4>
                         <p>Polygravity’s clients can work with comparatively primitive hardware. Cryptographic security level and transaction throughput are dependent on hardware performance, however, as explained in the EADP section, the transaction audit trail is stored on the accountants’ systems and not the transaction initiating client node.</p>
@@ -301,13 +334,16 @@
                         </ol>
                       </div>
 
-                      <div class="col-lg-6 col-xs-12 image-container">
+                      <div class="col-lg-6 col-xs-12 image-container desktop-version">
                         <img src="img/technology/hardware.svg" alt="">
                       </div>
                     </div>
 
                     <div class="explanation-container">
-                      <div class="col-lg-6 col-xs-12 image-container">
+                      <div class="col-lg-6 col-xs-12 image-container desktop-version">
+                        <img src="img/usp/scalability.svg" alt="">
+                      </div>
+                      <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none">
                         <img src="img/usp/scalability.svg" alt="">
                       </div>
                       <div class="col-lg-6 col-xs-12 text-container">
@@ -317,11 +353,14 @@
                     </div>
 
                     <div class="explanation-container">
+                      <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none;">
+                        <img src="img/technology/cluster.svg" alt="">
+                      </div>
                       <div class="col-lg-6 col-xs-12 text-container">
                         <h4>Maximum security with high avalability clusters [HAC]</h4>
                         <p>All parties in the network are able to create HACs in order to ensure maximum data availability and security of their system. One HAC consists of multiple nodes (current maximum at 12) that synchronize via private blockchains and together act as a single party (accountant or client).<br>By bringing together 3 nodes or more in one party, byzantine failure tolerance is achieved, meaning that one third of all nodes can be overtaken by enemies who act maliciously without the system being disturbed. If more than 3 nodes are brought together only a third + 1 nodes must be operational, a third of all nodes can be overtaken by enemies, and the remaining nodes can be down without the system experiencing any disturbances.<br>Because private ledgers are stored with the accountants, high availability clusters are usually less interesting to clients.</p>
                       </div>
-                      <div class="col-lg-6 col-xs-12 image-container">
+                      <div class="col-lg-6 col-xs-12 image-container desktop-version">
                         <img src="img/technology/cluster.svg" alt="">
                       </div>
                     </div>
@@ -333,11 +372,6 @@
             </div>
           </div>
         </section>
-
-
-
-
-
 
         <!-- Use Case Section-->
         <section id="use-case">
@@ -355,18 +389,13 @@
                       The scalability of Polygravity’s system allows every network user, be that IoT sensors, phones, etc. to be billed separately in real-time without reaching any transaction throughput ceilings.
                     </p>
                   </div>
-                  <img src="img/technology/use-case.svg" alt="">
-
+                  <img src="img/technology/use-case.svg" class="desktop-version" alt="">
+                  <img src="img/technology/use-case-mobile.svg" class="mobile-version" style="display: none;" alt="">
                 </div>
               </div>
             </div>
           </div>
         </section>
-
-
-
-
-
 
         <!-- Footer Section-->
         <section class="section-small footer">
@@ -406,7 +435,7 @@
     <script src="js/jquery.parallax.min.js"></script>
     <script src="js/jquery.circle-progress.min.js"></script>
     <script src="js/jquery.swipebox.min.js"></script>
-    <script src="js/smoothscroll.min.js"></script>
+    <!-- <script src="js/smoothscroll.min.js"></script> FUCKS UP BECAUSE OF ADDITIONAL SPACING BELOW FOOTER-->
     <script src="js/wow.min.js"></script>
     <script src="js/jquery.smartmenus.js"></script>
     <!-- Custom Theme JavaScript-->
