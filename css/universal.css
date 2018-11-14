@@ -1888,6 +1888,12 @@ section.bg-dark .fa, section.bg-dark2 .fa {
   height: auto;
 }
 
+#intro-text .row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /** { border: 1px solid black; }*/
 
 
@@ -1981,9 +1987,6 @@ section.bg-dark .fa, section.bg-dark2 .fa {
 #tabs #accountants img {
   max-width: 500px !important;
 }
-
-
-
 
 
 
