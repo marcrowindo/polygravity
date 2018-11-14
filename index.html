@@ -217,6 +217,44 @@
   </div>
 </section>
 
+<section id="contact">
+        <h3>Say hello</h3>
+        <!-- Contact Form - Enter your email address on line 17 of the mail/contact_me.php file to make this form work. For more information on how to do this please visit the Docs!-->
+        <form id="contactForm"action="https://formspree.io/mw@polygravity.io" method="POST">
+          <div class="control-group">
+            <div class="form-group floating-label-form-group controls">
+              <label class="sr-only control-label">Your Name</label>
+              <input name="name" id="name" type="text" placeholder="Your Name" required="" class="form-control input-lg">
+              <span class="help-block text-danger"></span>
+            </div>
+          </div>
+          <div class="control-group">
+            <div class="form-group floating-label-form-group controls">
+              <label class="sr-only control-label">Your Email</label>
+              <input name="email" id="email" placeholder="Your Email" required="" data-validation-required-message="Please enter email" class="form-control input-lg"><span class="help-block text-danger"></span>
+            </div>
+          </div>
+          <div class="control-group">
+            <div class="form-group floating-label-form-group controls">
+              <label class="sr-only control-label">Your Phone</label>
+              <input name="phone" id="phone" type="tel" placeholder="Your Phone" required="" data-validation-required-message="Please enter phone number" class="form-control input-lg"><span class="help-block text-danger"></span>
+            </div>
+          </div>
+          <div class="control-group">
+            <div class="form-group floating-label-form-group controls">
+              <label class="sr-only control-label">Your Message</label>
+              <textarea name="message" id="message" rows="2" placeholder="Your Message" required="" data-validation-required-message="Please enter a message." class="form-control input-lg"></textarea>
+              <span class="help-block text-danger"></span>
+            </div>
+          </div>
+          <div id="success"></div>
+          <button type="submit" class="btn btn-dark">Send</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- Map Section-->
 <div id="map"></div>
 
