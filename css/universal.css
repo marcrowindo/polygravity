@@ -52,7 +52,7 @@ Table of contents
 @import "https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900|Roboto+Mono:100,400|Caveat";
 
 @font-face { font-family: geogrotesque; src: url('../fonts/geogrotesque-light.ttf'); }
-@font-face { font-family: geogrotesque; font-weight: bold; src: url('../fonts/geogrotesque-bold.ttf'); }
+@font-face { font-family: geogrotesque; font-weight: medium; src: url('../fonts/geogrotesque-medium.ttf'); }
 @font-face { font-family: gtpressura; src: url('../fonts/gtpressura-light.ttf'); }
 @font-face { font-family: gtpressura; font-weight: bold; src: url('../fonts/gtpressura-bold.ttf'); }
 
