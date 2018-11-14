@@ -73,10 +73,9 @@
     <div class="container">
       <div class="row vision">
         <div class="col-lg-8">
-          <p>At its core, Polygravity is a high performance, high security double-entry book keeping system. It records and notarizes transactions between two parties, and puts transaction data into the record file of each party where it becomes immutable. Everything can be transacted, be that conventional fiat currency, cryptocurrency, data, rights to physical assets, etc. as long as it is traded against another value (e.g. usage of a telecomunications network against fiat currency).</p>
+          <p>At its core, Polygravity is a highly scalable, high security, real-time double-entry book keeping system: It records and notarizes transactions between two parties, and puts transaction data into the private blockchain of each party where data becomes immutable. Everything can be transacted, be that conventional fiat currency, cryptocurrency, data, rights to physical assets, etc. as long as it is traded against another value (e.g. usage of a telecomunications network against fiat currency).</p>
 
-          <p>Polygravity's transaction system consists of three different protocols that come together to create the perfect digital transaction:</p>
-
+          <p>Polygravity's transaction system consists of three different protocols that come together to enable the perfect digital transaction:</p>
           <ol>
             <li>
               <span><b>Persistent Socket Datagram Protocol [PSDP]</b>
@@ -91,7 +90,6 @@
               – Consensus algorithm, ensures A and B agree</span>
             </li>
           </ol>
-
         </div>
       </div>
     </div>
@@ -201,7 +199,7 @@
                     </div>
                     <div class="col-lg-6 col-xs-12 text-container">
                       <h4>Immutable data</h4>
-                      <p>By distributing block hashes amongst communicating parties, the transacting ledgers become interlocked with each other and their data immutable. As a result, ESDP data can be used as court evidence to prove that occured trades were executed under consensus of both transacting parties.</p>
+                      <p>By distributing block hashes amongst communicating parties, the transacting ledgers become interlocked with each other and their data is rendered immutable. As a result, ESDP data can be used as court evidence to prove that occured trades were executed under consensus of both transacting parties.</p>
                     </div>
                     <div class="col-lg-6 col-xs-12 image-container desktop-version" >
                       <img src="img/technology/immutable.svg" alt="">
@@ -241,7 +239,7 @@
                 <div id="tab3" role="tabpanel" class="tab-pane fade">
 
                   <div class="mini-intro">
-                    <p>Polygravity's consensus algorithm enables limitless system scalability and delivers high-end security mechanisms effectively empowering trade in scenarios where interacting parties do not trust eachother.</p>
+                    <p>Polygravity's consensus algorithm enables limitless system scalability and delivers high-end security mechanisms effectively empowering trade in scenarios in which interacting parties do not trust each other.</p>
                     <button type="button" class="btn btn-dark-border btn-lg inactive"><h5>EADP white paper release: 2019<h5></button>
                     </div>
 
@@ -255,7 +253,7 @@
                       <div class="col-lg-5 col-xs-12 text-container">
 
                         <h4>Limitless transaction throughput</h4>
-                        <p>Polygravity's EADP validates transactions locally between two transacting parties. As a result the system exhibits a <em>runtime complexity of O(1)</em> meaning that there is no loss in system efficiency when new parties join the network. In other words: Every joining node ads to the global amount of transactions that can be processed in the system.<br> In contrast, classic blockchain-based networks come with <em>global</em> consensus algorithms that validate transactions <em>globally</em>, in the entire system, which means that there is a <em>global limit</em> to their transaction throughput. In other words: Every joining node reduces the average transaction throughput capability of each node (ceteris paribus) and the global transaction throughput limit remains constant.</p>
+                        <p>Polygravity's EADP validates transactions locally between two transacting parties. As a result the system exhibits a <em>runtime complexity of O(1)</em> meaning that there is no loss in system efficiency when new parties join the network. In other words: Every joining node ads to the global amount of transactions that can be processed in the system in alinear fashion.<br> In contrast, classic blockchain-based networks come with <em>global</em> consensus algorithms that validate transactions <em>globally</em>, in the entire system, which means that there is a <em>global limit</em> to their transaction throughput. In other words: Every joining node reduces the average transaction throughput capability of each node (ceteris paribus) and the global transaction throughput limit remains constant.</p>
 
                       </div>
 
@@ -275,25 +273,25 @@
                       </div>
                       <div class="col-lg-6 col-xs-12 text-container">
                         <h4>Clients & accountants</h4>
-                        <p>Polygravity's system creates consensus between parties via an agreement mechanism involving third party accountants, as illustrated.</p>
+                        <p>Polygravity's system establishes consensus between transacting parties via an agreement mechanism involving third party accountants as illustrated.</p>
                         <h5>Clients</h5>
-                        <p>Clients are authenticated devices that are allowed to initiate / authorize transactions. You can think of them as the hardware of the actual user. Clients store only settled transaction hashes to minimize storage requirements on the client node.</p>
+                        <p>Clients are authenticated devices that are allowed to initiate/authorize transactions. You can think of them as the hardware of the actual user. Clients store only settled transaction hashes to minimize storage requirements on the client node.</p>
 
                         <h5>Accountants</h5>
                         <span>Accountants are third parties (such as Polygravity or other providers) that:</span>
                         <ol>
                           <li>Ensure clients reached consensus on a transaction before it is executed.</li>
                           <li>Validate, verify, clear and trigger settlement of transactions.</li>
-                          <li>Notarize and store transaction data in a private ledger / blockchain on their node(s) for their clients.</li>
+                          <li>Notarize and store transaction data in a private ledger/blockchain on their node(s) for their clients.</li>
                           <li>Are legally responsible for the execution of the agreed upon transaction.</li>
                           <li>Have access to the transaction data of their respective clients.</li>
                         </ol>
 
                         <h5>Accountant consensus protocol benefits</h5>
                         <ol>
-                          <li>Maximize throughput capabilities of system compared to other blockchain-based systems.</li>
+                          <li>Maximize throughput capabilities of system compared to other blockchain-based transaction networks.</li>
                           <li>Clearly assigns legal responsibilities to specific parties involved in a transaction and proofs fulfillment of legal responsibilities by those parties.</li>
-                          <li>Client nodes delegate the managing and storing of blockchain data to their accountants. This allows client nodes to be exeptionally “thin” (see hardware tab).</li>
+                          <li>Client nodes can be exeptionally “thin” (see hardware tab) because they can delegate the managing and storing of blockchain data to their accountants.</li>
                         </ol>
 
                       </div>
@@ -304,16 +302,11 @@
 
                   </div>
 
-
-
-
-
-
                   <!-- Tab Hardware -->
                   <div id="tab4" role="tabpanel" class="tab-pane fade">
 
                     <div class="mini-intro">
-                      <p>Polygravity has no hardware component, however, the client's hardware setup has a significant impact<br>on system security and performance.</p>
+                      <p>Polygravity's system does not feature a hardware component, however, the client's hardware setup has a significant impact<br>on system security and performance.</p>
                     </div>
 
                     <div class="explanation-container">
