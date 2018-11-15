@@ -1,5 +1,8 @@
 <?php
 // Check for empty fields
+
+error_log("lkjsdflkjsdflkj");
+
 if(empty($_POST['name'])  		||
    empty($_POST['email']) 		||
    empty($_POST['phone']) 		||
