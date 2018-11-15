@@ -13,8 +13,6 @@ if(empty($_POST['name'])  		||
 	return false;
    }
 
-   error_log("---------------- LOG 1 -----------------");
-
 $name = $_POST['name'];
 $email_address = $_POST['email'];
 $phone = $_POST['phone'];
@@ -25,12 +23,20 @@ $email_subject = "Website Contact Form:  $name";
 $email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
 $headers = "sg@polygravity.io\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
 $headers .= "Reply-To: $email_address";
-error_log("---------------- LOG 2----------------- + $to ");
 
-//mail($to,$email_subject,$email_body,$headers);
-mail($to, 'hello hello', 'body');
+// mail($to,$email_subject,$email_body,$headers);
+// mail($to, 'hello hello', 'body');
 
-error_log("---------------- LOG 3 -----------------");
+if (mail($to, $email_subject, $email_body, $headers))
+{
+    error_log("-------------- Success ------------------")
+}
+else
+{
+    error_log("-------------- Failure ------------------")
+}
+
+
 
 return true;
 ?>
