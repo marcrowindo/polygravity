@@ -350,11 +350,11 @@
                         <h4>Maximum security with high availability clusters [HACs]</h4>
                         <p>All parties in the network are able to create HACs in order to ensure maximum data availability and security of their system. One HAC consists of multiple nodes (current maximum at 12) that synchronize via private blockchains and together act as a single party (accountant or client).<br>By bringing together 3 nodes or more in one party, byzantine failure tolerance is achieved, meaning that one third of all nodes can be overtaken by enemies who act maliciously without the system being disturbed. If more than 3 nodes are brought together only a third + 1 nodes must be operational, a third of all nodes can be overtaken by enemies, and the remaining nodes can be down without the system experiencing any disturbances.</p>
                         <ul>
-                          <li>R >= 3F + 1</li>
+                          <li><b>R >= 3F + 1</b></li>
                           <li>R: Total number of nodes</li>
                           <li>F: Tolerable number of false nodes</li>
-                          <li>e.g. R = 3, F <= ⅔</li>
-                          <li>     R = 3 + n, F <= (2 + n) / 3</li>
+                          <li>R = 3, F <= ⅔</li>
+                          <li>R = 3 + n, F <= (2 + n) / 3</li>
                         </ul>
                         <p>Because private ledgers are stored with the accountants, high availability clusters are usually less interesting to clients.</p>
                       </div>
