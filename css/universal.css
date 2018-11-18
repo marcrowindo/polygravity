@@ -172,6 +172,10 @@ p {
   margin: 0 0 35px;
   font-family: gtpressura; }
 
+p.chinese {
+  font-size: 17px !important;
+}
+
 a {
   text-decoration: none;
   color: #000;
