@@ -1237,6 +1237,7 @@ input[type=checkbox], input[type=radio] {
 
 /* Team */
 #team h2 {
+  margin-top: 0px !important;
   padding-bottom: 0 !important; }
 #team p {
   margin-bottom: 10px; }
