@@ -136,7 +136,7 @@
             <div id="tab1" role="tabpanel" class="tab-pane fade in active">
 
               <div class="mini-intro">
-                <p>Polygravity's transmission layer delivers high end security and throughput in real-time. To download the <em>technical</em> white paper draft which mathematically proves the PSDP's integrity, click the button below.</p>
+                <p>Polygravity's PSDP serves as the transport and session layer protocol, providing encrypted, authorized, real-time message-based communication including state synchronization for replication based high security and availability clusters. To download the <em>technical</em> white paper draft which mathematically proves the PSDP's integrity, click the button below.</p>
                 <a href="documents/psdp.pdf" target="_blank"><button type="button" class="btn btn-dark-border btn-lg"><h5>get PSDP white paper<h5></button></a>
                 </div>
 
@@ -189,7 +189,7 @@
               <div id="tab2" role="tabpanel" class="tab-pane fade">
 
                 <div class="mini-intro">
-                  <p>Polygravity's private ledgers provide immutable transaction data at maximum privacy.</p>
+                  <p>The ESDP is a session and presentation layer protocol saving the input of the PSDP protocols clusters into locally stored and globally interlocked Merkle trees to make an alteration of input history impossible without detection.</p>
                   <button type="button" class="btn btn-dark-border btn-lg inactive"><h5>ESDP white paper release: 2019<h5></button>
                   </div>
 
@@ -239,7 +239,7 @@
                 <div id="tab3" role="tabpanel" class="tab-pane fade">
 
                   <div class="mini-intro">
-                    <p>Polygravity's consensus algorithm enables limitless system scalability and delivers high-end security mechanisms effectively empowering trade in scenarios in which interacting parties do not trust each other.</p>
+                    <p>Polygravity's EADP is a modified, inline trusted party, fair exchange/non-repudiation protocol that performs double entry booking on the application layer protocol level. It enables limitless system scalability and delivers high-end security mechanisms effectively empowering trade in scenarios in which interacting parties do not trust each other.</p>
                     <button type="button" class="btn btn-dark-border btn-lg inactive"><h5>EADP white paper release: 2019<h5></button>
                     </div>
 
@@ -342,13 +342,6 @@
                       <div class="col-lg-6 col-xs-12 text-container">
                         <h4>Maximum security with high availability clusters [HACs]</h4>
                         <p>All parties in the network are able to create HACs in order to ensure maximum data availability and security of their system. One HAC consists of multiple nodes (current maximum at 12) that synchronize via private blockchains and together act as a single party (accountant or client).<br>By bringing together 3 nodes or more in one party, byzantine failure tolerance is achieved, meaning that one third of all nodes can be overtaken by enemies who act maliciously without the system being disturbed. If more than 3 nodes are brought together only a third + 1 nodes must be operational, a third of all nodes can be overtaken by enemies, and the remaining nodes can be down without the system experiencing any disturbances.</p>
-                        <ul>
-                          <li><b>R >= 3F + 1</b></li>
-                          <li>R: Total number of nodes</li>
-                          <li>F: Tolerable number of false nodes</li>
-                          <li>R = 3, F <= ⅔</li>
-                          <li>R = 3 + n, F <= (2 + n) / 3</li>
-                        </ul>
                         <p>Because private ledgers are stored with the accountants, high availability clusters are usually less interesting to clients.</p>
                       </div>
                       <div class="col-lg-6 col-xs-12 image-container desktop-version">
