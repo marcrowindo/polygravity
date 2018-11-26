@@ -68,6 +68,10 @@ html {
   width: 100% !important;
   height: 100% !important; }
 
+  iframe {
+    background-color: white;
+  }
+
 body {
   width: 100% !important;
   height: 100% !important;
