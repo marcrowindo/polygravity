@@ -48,6 +48,8 @@ Table of contents
 
 -------------------------------------------------------------------*/
 
+/** { border: 1px solid black; }*/
+
 /* Fonts */
 @import "https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900|Roboto+Mono:100,400|Caveat";
 
@@ -1902,17 +1904,6 @@ section.bg-dark .fa, section.bg-dark2 .fa {
   align-items: center;
 }
 
-/** { border: 1px solid black; }*/
-
-
-
-
-
-
-
-
-
-
 /* Media Queries */
 @media (max-width: 768px) {
   body {
@@ -1996,22 +1987,9 @@ section.bg-dark .fa, section.bg-dark2 .fa {
   max-width: 500px !important;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 #tabs .desktop-version {
   display: none !important;
 }
-
-
 
   .footer .text-right {
     text-align: left; }
@@ -2035,8 +2013,6 @@ section.bg-dark .fa, section.bg-dark2 .fa {
 
   }
 
-
-
 @media (max-width: 1200px) {
   #about, #about2, #about-slider, #action-slider, #action-slider2, #action-slider3 {
     text-align: center; }
@@ -2050,14 +2026,16 @@ section.bg-dark .fa, section.bg-dark2 .fa {
 @media (max-width: 480px) {
   .intro h1 {
     font-size: 30px;
-    line-height: 40px; } }
-/* Magic background */
-.magic, .magic2 {
-  position: absolute;
-  width: 100%;
-  z-index: 0;
-  top: 0;
-  left: 0; }
+    line-height: 40px; }
+  .profile-pic {
+    height: 80px;
+    max-width: none;
+  }
+  .person {
+    padding: 5px;
+  }
+  }
+
 
 /* Footer */
 .footer {
@@ -2117,44 +2095,6 @@ ul.list-inline.social-media {
 .image-container.mobile-version {
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   }
 
