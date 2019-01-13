@@ -1,8 +1,3 @@
-/*!
-    Universal - Smart multi-purpose html5 template
-    To use this template you must have a license purchased at Themeforest (themeforest.com)
-    Copyright 1995-2016 ForBetterWeb.com
- */
 /*------------------------------------------------------------------
 
 Table of contents
@@ -48,7 +43,10 @@ Table of contents
 
 -------------------------------------------------------------------*/
 
-/** { border: 1px solid black; }*/
+* {
+  /*border: 1px solid black;*/
+  /*background-color: red;*/
+}
 
 /* Fonts */
 @import "https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900|Roboto+Mono:100,400|Caveat";
@@ -171,6 +169,10 @@ h4, h5, h6 {
     margin-top: 20px;
   }
 
+  .tag-line {
+    padding: 0 20px;
+  }
+
 .no-transform {
   text-transform: none; }
 
@@ -180,6 +182,10 @@ p {
 
 .chinese {
   font-size: 17px !important;
+}
+
+p.lowmarginbottom {
+  margin-bottom: 10px;
 }
 
 a {
@@ -212,8 +218,11 @@ a img:hover {
   opacity: .85; }
 
 ul {
-  list-style: none;
   font-family: gtpressura;
+}
+
+ul.special {
+  list-style: none;
 }
 
 ol {
@@ -324,7 +333,9 @@ section, .section {
 .btn-border {
   border: 2px solid #fff;
   color: #fff !important;
-  background-color: transparent; }
+  background-color: transparent;
+  opacity: 0.75;
+}
 
 .btn-dark-border {
   border: 1px solid #000;
@@ -339,12 +350,16 @@ section, .section {
 .btn-gray {
   border: 2px solid #ddd;
   background-color: #ddd;
-  color: #000 !important; }
+  color: #000 !important;
+  opacity: 0.75;
+}
 
 .btn-dark {
   border: 2px solid #292A2B;
   background-color: #292A2B;
-  color: #fff !important; }
+  color: #fff !important;
+  opacity: 0.75;
+}
 
 .btn-universal {
   border: 2px solid #789;
@@ -356,8 +371,15 @@ section, .section {
   background-color: #ff4081;
   color: #fff !important; }
 
+.btn-green {
+  border: 2px solid #87BC55;
+  background-color: #87BC55;
+  color: #fff !important;
+  opacity: 0.75;
+}
+
 .btn:hover {
-  opacity: 0.65;
+  opacity: 1;
   cursor: pointer;}
 
   .btn.inactive:hover {
@@ -457,6 +479,41 @@ a .fa {
 
 .navbar-fixed-top .container {
   width: auto; }
+
+.navbar-nav a {
+  opacity: 0.75;
+}
+
+.navbar-nav a:hover {
+  opacity: 1;
+}
+
+.navbar-nav a::before {
+  transition: 300ms;
+  height: 1px;
+  content: "";
+  position: absolute;
+  background-color: white;
+}
+
+.nav-link-ltr::before {
+  width: 0%;
+  bottom: 10px;
+}
+
+.nav-link-ltr:hover::before {
+  width: 100%;
+}
+
+a.nav-link-ltr {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  margin: 0px 15px;
+}
+
+.navbar-custom.top-nav-collapse a.nav-link-ltr::before {
+  background-color: black;
+}
 
 @media (min-width: 1200px) {
   .top-nav-collapse .container {
@@ -963,6 +1020,10 @@ a.btn-nav .btn {
 .introhalf {
   height: auto !important; }
 
+.introtwothirds {
+  height: 66% !important;
+}
+
 .intro .intro-body {
   display: table-cell;
   vertical-align: middle;
@@ -1009,16 +1070,9 @@ a.btn-nav .btn {
   letter-spacing: -2px;
   margin: 0 0 5px; }
 .intro h1 {
-  font-size: 60px;
+  font-size: 45px;
   font-weight: 900;
   line-height: 80px; }
-  .intro h1.classic {
-    font-size: 100px;
-    line-height: 100px;
-    font-weight: normal; }
-  .intro h1.classic2 {
-    font-size: 110px;
-    line-height: 110px; }
 .intro .lead {
   margin: 40px 0 0; }
 
@@ -1296,6 +1350,16 @@ blockquote {
 
 .quote {
   font-size: 18px; }
+
+.intouch {
+  padding-top: 0px;
+}
+
+.option-btn {
+  padding: 12px 25px;
+  margin: 0px 40px;
+
+}
 
 /* Facts */
 @media (max-width: 768px) {
@@ -1793,6 +1857,57 @@ section.bg-dark .fa, section.bg-dark2 .fa {
   transition: width 2.50s ease !important; }
 
 
+/* Telecom */
+.intro-container {
+  display: flex;
+  justify-content: center;
+}
+.wholesale-intro {
+  text-align: center;
+  max-width: 900px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Tabs */
 
 #tabs {
@@ -1844,26 +1959,30 @@ section.bg-dark .fa, section.bg-dark2 .fa {
   padding-left: 0px;
 }
 
-#tabs .explanation-container {
+.explanation-container {
   margin: 0px;
   padding: 70px 0px;
   display: flex;
   align-items: center;
 }
 
-#tabs .image-container {
+.image-container {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-#tabs .image-container.mobile-version img {
+.image-container.mobile-version img {
   width: 100%;
   height: auto;
 }
 
-#tabs .image-container.exception {
+.image-container.exception {
   display: block !important;
+}
+
+.usps .explanation-container {
+  padding: 140px 0px;
 }
 
 #tabs #sdf p {
@@ -2016,9 +2135,6 @@ section.bg-dark .fa, section.bg-dark2 .fa {
 @media (max-width: 1200px) {
   #about, #about2, #about-slider, #action-slider, #action-slider2, #action-slider3 {
     text-align: center; }
-    .usp-illustration {
-    display: none;
-    }
 
   #carousel-light, #carousel-light2, #carousel-light3, #carousel-light4, #carousel-dark, #carousel-transparent {
     margin: 45px 0; } }
@@ -2107,7 +2223,7 @@ ul.list-inline.social-media {
 
 @media (max-width: 768px) {
   .intro.demo-header h1 {
-    font-size: 42px; }
+    font-size: 42px !important; }
 
 .demo .container-fluid {
   padding-right: 40px;

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="338px" height="235px" viewBox="0 0 338 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>throughput</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="throughput" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <path d="M51.5,206.5 L170.5,55.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M166.171375,65.8393909 L170.5,55.5 L161.458885,62.1255741" stroke="#292A2B"></path>
+        <path d="M83.5,184.5 L202.5,33.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M198.171375,43.8393909 L202.5,33.5 L193.458885,40.1255741" stroke="#292A2B"></path>
+        <path d="M8.5,123.5 L100.5,9.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M96.0519853,19.7885939 L100.5,9.5 L91.3827985,16.0204783" stroke="#292A2B"></path>
+        <path d="M51.5,246.5 L170.5,95.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M166.171375,105.839391 L170.5,95.5 L161.458885,102.125574" stroke="#292A2B"></path>
+        <path d="M94.5,209.5 L195.5,83.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M191.085933,93.8032042 L195.5,83.5 L186.404348,90.0505045" stroke="#292A2B"></path>
+        <path d="M135.5,177.5 L254.5,26.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M250.171375,36.8393909 L254.5,26.5 L245.458885,33.1255741" stroke="#292A2B"></path>
+        <path d="M128.5,207.5 L187.5,131.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M183.24695,141.870707 L187.5,131.5 L178.507481,138.191382" stroke="#292A2B"></path>
+        <path d="M128.5,222.5 L247.5,71.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M243.171375,81.8393909 L247.5,71.5 L238.458885,78.1255741" stroke="#292A2B"></path>
+        <path d="M16.5,234.5 L135.5,83.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M131.171375,93.8393909 L135.5,83.5 L126.458885,90.1255741" stroke="#292A2B"></path>
+        <path d="M163.5,199.5 L216.5,131.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M212.226954,141.862484 L216.5,131.5 L207.494591,138.174024" stroke="#292A2B"></path>
+        <path d="M196.5,170.5 L315.5,19.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M311.171375,29.8393909 L315.5,19.5 L306.458885,26.1255741" stroke="#292A2B"></path>
+        <path d="M13.5,156.5 L132.5,5.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M128.171375,15.8393909 L132.5,5.5 L123.458885,12.1255741" stroke="#292A2B"></path>
+        <path d="M188.5,199.5 L307.5,48.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M303.171375,58.8393909 L307.5,48.5 L298.458885,55.1255741" stroke="#292A2B"></path>
+        <path d="M33.5,190.5 L86.5,124.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M82.07689,134.799325 L86.5,124.5 L77.3986005,131.042517" stroke="#292A2B"></path>
+        <path d="M22.5,123.5 L75.5,57.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M71.07689,67.7993251 L75.5,57.5 L66.3986005,64.0425169" stroke="#292A2B"></path>
+        <path d="M263.5,234.5 L316.5,168.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M312.07689,178.799325 L316.5,168.5 L307.398601,175.042517" stroke="#292A2B"></path>
+        <path d="M0.5,213.5 L119.5,62.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M115.171375,72.8393909 L119.5,62.5 L110.458885,69.1255741" stroke="#292A2B"></path>
+        <path d="M51.5,127.5 L127.5,30.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M123.200633,40.8515912 L127.5,30.5 L118.477658,37.1511164" stroke="#292A2B"></path>
+        <path d="M191.5,227.5 L276.5,117.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M272.270222,127.880221 L276.5,117.5 L267.522512,124.211536" stroke="#292A2B"></path>
+        <path d="M217.5,213.5 L336.5,62.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M332.171375,72.8393909 L336.5,62.5 L327.458885,69.1255741" stroke="#292A2B"></path>
+        <path d="M236.5,228.5 L262.5,193.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M258.467932,203.958606 L262.5,193.5 L253.651469,200.380662" stroke="#292A2B"></path>
+        <path d="M222.5,228.5 L277.5,159.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M273.11415,169.815247 L277.5,159.5 L268.422311,166.075375" stroke="#292A2B"></path>
+        <path d="M260.5,219.5 L315.5,150.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M311.11415,160.815247 L315.5,150.5 L306.422311,157.075375" stroke="#292A2B"></path>
+        <path d="M271.5,184.5 L326.5,115.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M322.11415,125.815247 L326.5,115.5 L317.422311,122.075375" stroke="#292A2B"></path>
+        <path d="M98.5,329.5 L217.5,178.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M213.171375,188.839391 L217.5,178.5 L208.458885,185.125574" stroke="#292A2B"></path>
+        <path d="M196.5,123.5 L270.5,30.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M266.123004,40.8190072 L270.5,30.5 L261.427957,37.0831631" stroke="#292A2B"></path>
+        <path d="M178.5,86.5 L217.5,36.5" id="Line" stroke="#292A2B"></path>
+        <path id="Line-decoration-1" d="M213.223163,46.8609203 L217.5,36.5 L208.49215,43.1707295" stroke="#292A2B"></path>
+    </g>
+</svg>

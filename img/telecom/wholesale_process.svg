@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="538px" viewBox="0 0 500 538" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>wholesale_process</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="162" height="43"></rect>
+        <rect id="path-2" x="0" y="0" width="413" height="71"></rect>
+    </defs>
+    <g id="wholesale_process" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Carrier-A" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+            <tspan x="193" y="13">Carrier A</tspan>
+        </text>
+        <text id="Carrier-B" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+            <tspan x="266" y="13">Carrier B</tspan>
+        </text>
+        <g id="Group-4" transform="translate(44.000000, 77.000000)">
+            <rect id="Rectangle-23" stroke="#87BC55" x="0.5" y="0.5" width="161" height="84"></rect>
+            <text id="SIP-Analyzer" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="14" y="15">SIP Analyzer</tspan>
+            </text>
+            <text id="--Sniffs-SIP-traffic" font-family="GTPressura-Light, GT Pressura" font-size="10" font-weight="300" fill="#292A2B">
+                <tspan x="14" y="33">- Sniffs SIP traffic</tspan>
+                <tspan x="14" y="47">- Creates CDR</tspan>
+                <tspan x="14" y="61">- Executes rating</tspan>
+                <tspan x="14" y="75">- Communicates with PolyXchange</tspan>
+            </text>
+        </g>
+        <path d="M110.5,169.5 L110.5,304.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M107.5,293.7 L110.5,304.5 L113.5,293.7" stroke="#292A2B" stroke-linecap="square"></path>
+        <g id="Group-4" transform="translate(295.000000, 184.000000)">
+            <rect id="Rectangle-23" stroke="#87BC55" x="0.5" y="0.5" width="161" height="84"></rect>
+            <text id="SIP-Analyzer" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="14" y="15">SIP Analyzer</tspan>
+            </text>
+            <text id="--Sniffs-SIP-traffic" font-family="GTPressura-Light, GT Pressura" font-size="10" font-weight="300" fill="#292A2B">
+                <tspan x="14" y="33">- Sniffs SIP traffic</tspan>
+                <tspan x="14" y="47">- Creates CDR</tspan>
+                <tspan x="14" y="61">- Executes rating</tspan>
+                <tspan x="14" y="75">- Communicates with PolyXchange</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(44.000000, 205.000000)">
+            <g id="Rectangle-23">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#292A2B" stroke-width="1" x="0.5" y="0.5" width="161" height="42"></rect>
+            </g>
+            <text id="Soft-switch" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="14" y="15">Soft switch</tspan>
+            </text>
+            <text id="Routes-traffic-to-wh" font-family="GTPressura-Light, GT Pressura" font-size="10" font-weight="300" fill="#292A2B">
+                <tspan x="14" y="33">Routes traffic to wholesale partner</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(308.000000, 419.000000)">
+            <rect id="Rectangle-23" stroke="#292A2B" x="0.5" y="0.5" width="161" height="42"></rect>
+            <text id="Soft-switch" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="14" y="15">Soft switch</tspan>
+            </text>
+            <text id="Routes-traffic-to-wh" font-family="GTPressura-Light, GT Pressura" font-size="10" font-weight="300" fill="#292A2B">
+                <tspan x="14" y="33">Routes traffic to wholesale partner</tspan>
+            </text>
+        </g>
+        <path d="M375.5,276.5 L375.5,411.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M372.5,400.7 L375.5,411.5 L378.5,400.7" stroke="#292A2B" stroke-linecap="square"></path>
+        <g id="Group-2" transform="translate(116.000000, 0.000000)">
+            <rect id="Rectangle-21" stroke="#292A2B" x="0.5" y="0.5" width="16" height="33" rx="3"></rect>
+            <path d="M15.5,4.5 L1.32971138,4.5" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+            <path d="M11.8342618,2.33333333 L9.16146522,2.33333333" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+            <path d="M6.83426181,2.33333333 L6.14617675,2.33333333" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+            <path d="M16.5009164,28.6666667 L1.34408412,28.6666667" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+            <circle id="Oval-12" fill="#292A2B" cx="8" cy="31" r="1"></circle>
+        </g>
+        <g id="Group-2" transform="translate(381.000000, 504.000000)">
+            <rect id="Rectangle-21" stroke="#292A2B" x="0.5" y="0.5" width="16" height="33" rx="3"></rect>
+            <path d="M15.5,4.5 L1.32971138,4.5" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+            <path d="M11.8342618,2.33333333 L9.16146522,2.33333333" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+            <path d="M6.83426181,2.33333333 L6.14617675,2.33333333" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+            <path d="M16.5009164,28.6666667 L1.34408412,28.6666667" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+            <circle id="Oval-12" fill="#292A2B" cx="8" cy="31" r="1"></circle>
+        </g>
+        <path d="M250.5,0.490684055 L250.5,544.500919" id="Line-3" stroke="#292A2B" stroke-linecap="square" stroke-dasharray="5"></path>
+        <g id="Group" transform="translate(44.000000, 312.000000)">
+            <g id="Rectangle-25">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#87BC55" stroke-width="1" x="0.5" y="0.5" width="412" height="70"></rect>
+            </g>
+            <text id="--Ensures-congruency" font-family="GTPressura-Light, GT Pressura" font-size="10" font-weight="300" fill="#292A2B">
+                <tspan x="8" y="33">- Ensures congruency of CDRs and rating data without revealing critical data to trading parties. </tspan>
+                <tspan x="8" y="47">- Creates billing transactions between wholesale partners.</tspan>
+                <tspan x="8" y="61">- Notifies parties of successful transaction.</tspan>
+            </text>
+            <text id="PolyXchange" font-family="GTPressura-Light, GT Pressura" font-size="12" font-weight="300" fill="#292A2B">
+                <tspan x="8" y="15">PolyXchange</tspan>
+            </text>
+        </g>
+        <path d="M124.5,40.5 L124.5,67.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M121.5,56.7 L124.5,67.5 L127.5,56.7" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M138.5,169.5 L138.5,196.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M135.5,185.7 L138.5,196.5 L141.5,185.7" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M403.5,276.5 L403.5,303.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M400.5,292.7 L403.5,303.5 L406.5,292.7" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M389.5,469.5 L389.5,496.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M386.5,485.7 L389.5,496.5 L392.5,485.7" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M218.462153,225.5 L283.875619,225.5" id="Line-4" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-4-decoration-1" d="M273.075619,228.5 L283.875619,225.5 L273.075619,222.5" stroke="#292A2B" stroke-linecap="square"></path>
+    </g>
+</svg>
