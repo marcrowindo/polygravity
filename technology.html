@@ -86,17 +86,17 @@
     <div class="container">
       <div class="row vision">
         <div class="col-lg-8">
-          <p>Polygravity's products are built on top of a protocol stack called <b>PolyXchange</b>. At its core, PolyXchange is a highly scalable, high security, real-time double-entry bookkeeping system: It records and notarizes transactions between two parties, and puts transaction data into the private blockchain of each party where data becomes immutable. Everything can be transacted, be that conventional fiat currency, cryptocurrency, data, rights to physical assets, etc. as long as it is traded against another value (e.g. usage of a telecommunications network against fiat currency).</p>
+          <p>Polygravity's product is a protocol stack called <b>PolyXchange</b>. At its core, PolyXchange is a highly scalable, high security, real-time exchange system: It records and notarizes trades between two parties, and puts exchange data into the private blockchain of each party where data becomes immutable. Everything can be exchanged, be that conventional fiat currency, cryptocurrency, data, rights to physical assets, etc.</p>
 
-          <p>PolyXchange consists of three different protocols that come together to form the perfect digital transaction system:</p>
+          <p>PolyXchange consists of three different protocols that come together to enable a seamless digital exchange:</p>
           <ol>
             <li>
               <span><b>Persistent Socket Datagram Protocol [PSDP]</b>
-              – Transmission layer, transmits transactions from A to B</span>
+              – Transmission layer, transmits data between A and B</span>
             </li>
             <li>
               <span><b>Eidetic Socket Datagram Protocol [ESDP]</b>
-              – Private ledgers, store transaction data at A and B</span>
+              – Private ledgers, store exchange data at A and B</span>
             </li>
             <li>
               <span><b>Eidetic Accounting Datagram Protocol [EADP]</b>
@@ -152,18 +152,17 @@
                 <p>The PSDP serves as the transport and session layer protocol, providing encrypted, authorized, real-time message-based communication including state synchronization for replication based high security and availability clusters.</p>
               </div>
 
-              <div class="explanation-container">
+
+
+
+                <div class="explanation-container">
                 <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none">
                   <img src="img/technology/transmission.svg" alt="">
                 </div>
                 <div class="col-lg-6 col-xs-12 text-container">
-                  <h4>Increased transport layer throughput in real-time</h4>
-                  <p>The PSDP replaces TCP/UDP and other related transport layer protocols that limit the amount of possible parallel connections in a network. All PSDP communications support real-time semantics, meaning that all transactions occur in real-time.</p>
-                  <h5>Theoretical connection limit:</h5>
-                  <ul class="special">
-                    <li><b>TCP:</b> (2<sup>16</sup>) = 65’536</li>
-                    <li><b>PSDP:</b> (2<sup>64</sup>) = 18’446’744’073’709’600’000</li>
-                  </ul>
+                  <h4>Ultra low latency communication</h4>
+                  <p>Common transport and session layer protocols such as the TCP are designed to accommodate as many different applications as possible, creating a lot of functional overhead, which is not needed for focused applications such as PolyXchange.<br><br>
+                  Our proprietary transport and session layer protocol, the PSDP creates persistent sockets and thus allows for handshake free secure data transmission. The removal of handshakes allows for incredibly fast transmission of data packets, and as a result all transactions made via PolyXchange occur at ultra-low latency, or in “real-time”. </p>
                 </div>
                 <div class="col-lg-6 image-container desktop-version">
                   <img src="img/technology/transmission.svg" alt="">
@@ -210,7 +209,7 @@
                 </div>
                 <div class="col-lg-6 col-xs-12 text-container">
                   <h4>Immutable data</h4>
-                  <p>By distributing block hashes amongst communicating parties, the transacting ledgers become interlocked with each other and their data is rendered immutable. As a result, ESDP data can be used as court evidence to prove that occured trades were executed under consensus of both transacting parties.</p>
+                  <p>By distributing block hashes amongst communicating parties, the transacting ledgers become interlocked with each other and their data is rendered immutable. As a result, ESDP data can be used as court evidence to prove that occured exchanges were executed under consensus of both trading parties.</p>
                 </div>
                 <div class="col-lg-6 col-xs-12 image-container desktop-version" >
                   <img src="img/technology/immutable.svg" alt="">
@@ -226,7 +225,7 @@
                 </div>
                 <div class="col-lg-6 col-xs-12 text-container">
                   <h4>Uncompromising privacy</h4>
-                  <p>PolyXchange does not have a native asset or "system currency". Because of this, a globally transparent public ledger with a history of all transactions is not required. Transaction data is mainly stored on the transacting party’s accountant’s private blockchain/ledger (see E<b>A</b>DP tab) where only the respective transacting party has access to.</p>
+                  <p>PolyXchange does not have a native asset or "system currency". Because of this, a globally transparent public ledger with a history of all transactions is not required. Transaction data is mainly stored on the transacting party’s accountant’s private blockchain/ledger (see E<b>A</b>DP tab) to which only the respective trading party has access to.</p>
                 </div>
               </div>
 
@@ -236,7 +235,7 @@
                 </div>
                 <div class="col-lg-6 col-xs-12 text-container">
                   <h4>Right to be forgotten</h4>
-                  <p>According to data protection laws, customers have the right to have their data deleted. PolyXchange's ESDP adheres to this norm by allowing transacting parties to “forget” about blocks that save transaction data after an individually configurable time period. However, much like in a double-entry bookkeeping system, every transacting party holds an immutable and fully notarized record of every transaction it made with other system participants. As a result, even if a trading party would delete their complete transaction history, other parties could still prove what transactions have been made between them and the party who deleted their records.</p>
+                  <p>Consumers in the EU have the right to have their data deleted. PolyXchange's ESDP adheres to this legislation by allowing trading parties to “forget” about blocks that save transaction data after an individually configurable time period. However, every trading party holds an immutable and fully notarized record of every exchange it made with other system participants. As a result, even if a trading party would delete their complete transaction history, other parties could still prove what transactions have been made between them and the party who deleted their records.</p>
                 </div>
                 <div class="col-lg-6 col-xs-12 image-container desktop-version">
                   <img src="img/technology/forgotten.svg" alt="">
@@ -248,7 +247,7 @@
             <div id="tab3" role="tabpanel" class="tab-pane fade">
 
               <div class="mini-intro">
-                <p>Polygravity's EADP is a modified, inline trusted party, fair exchange/non-repudiation protocol that performs double entry booking on the application layer level. It enables limitless system scalability and delivers high-end security mechanisms effectively empowering trade in scenarios in which interacting parties do not trust each other.</p>
+                <p>Polygravity's EADP is a modified, inline trusted party, fair exchange/non-repudiation protocol that performs double entry bookkeeping on the application layer level. It enables limitless system scalability and delivers high-end security mechanisms effectively empowering trade in scenarios in which interacting parties do not trust each other.</p>
               </div>
 
               <div class="explanation-container">
@@ -256,8 +255,7 @@
                 <div class="col-lg-5 col-xs-12 text-container">
 
                   <h4>Limitless transaction throughput</h4>
-                  <p>PoyXchange's EADP validates transactions locally between two transacting parties. As a result the system exhibits a <em>runtime complexity of O(1)</em> meaning that there is no loss in system efficiency when new parties join the network. In other words: Every joining node ads to the global amount of transactions that can be processed in the system in a linear fashion.</p>
-
+                  <p>PoyXchange's EADP validates exchanges/transactions <em>locally</em> between two trading parties. As a result the system exhibits a <em>runtime complexity of O(1)</em> meaning that there is no loss in system efficiency when new parties join the network. In other words: Every joining node ads to the global amount of transactions that can be processed in the system in a linear fashion.</p>
                 </div>
 
                 <div class="col-lg-7 col-xs-12 image-container" id="consensus">
@@ -281,16 +279,16 @@
                   <h5>Accountants</h5>
                   <span>Accountants are not <em>necessarily</em> third parties. If an enterprise where to use the network, its accounting department could act as its accountant. This way Polygravity's products can be implemented seamlessly into the organisation and the enterprise's transaction data would remain completely private to its own organisation. However, it is alo possible to choose a third party accountant. Private persons might select this option and let Polygravity or other entities do their accounting.<br>Generally, accountants have the following responsibilities:</span>
                   <ol>
-                    <li>Ensure transacting clients reached consensus on a transaction before it is executed.</li>
+                    <li>Ensure trading clients reached consensus on an exchange before it is executed.</li>
                     <li>Validate, verify, clear and trigger settlement of transactions.</li>
-                    <li>Notarize and store transaction (and if required delete) data in a private ledger/blockchain on their node(s) for their clients under consideration of national data protection laws.</li>
+                    <li>Notarize and store exchange (and if required delete) data in a private ledger/blockchain on their node(s) for their clients under consideration of data protection laws.</li>
                     <li>Are legally responsible for the execution of the agreed upon transaction.</li>
                   </ol>
 
                   <h5>Accountant consensus protocol benefits:</h5>
                   <ol>
                     <li>Transaction throughput capabilities are optimised.</li>
-                    <li>Client nodes can be exceptionally “thin” (see hardware tab) because they can delegate the managing and storing of transaction data to their accountants. This makes PolyXchange ideal for IoT use cases.</li>
+                    <li>Client nodes can be exceptionally “thin” (see hardware tab) because they can delegate the managing and storing of transaction data to their accountants. This makes PolyXchange ideal for the IoT.</li>
                     <li>Legal responsibilities are clearly assigned to specific parties involved in a transaction and the fulfillment of legal responsibilities by those parties can be proven.</li>
                   </ol>
 
@@ -338,7 +336,7 @@
                 </div>
                 <div class="col-lg-6 col-xs-12 text-container">
                   <h4>Linearly scalable transaction throughput</h4>
-                  <p>As mentioned in the EADP section, PolyXchange does not have a global transaction throughput limit. However, localy between two transacting parties, transaction packet throughput is dependent on hardware processing capacity.<br><br>Initial load tests on an outdated 2009 2.93 GHz i7 870 processor with 4 cores yielded 12’000 transaction- packets per second with a transaction-packet size of 512 bytes of random data per transaction.<br>However, the transaction processing algorithm is perfectly parallel, such that doubling the computational resources will double the transaction throughput (ceteris paribus). Otherwise put: Faster hardware will deliver more transactions per second in a linear fashion, meaning that a modern midrange performance server CPU, like many AMD EPYC CPUs, with 16 cores instead of 4 would deliver a <b>transaction-packet throughput of 48’000 per second</b>. Assuming that cores did not become any faster in the past 9 years.</p>
+                  <p>As mentioned in the EADP section, PolyXchange does not have a global transaction throughput limit. However, localy between two transacting parties, transaction packet throughput is dependent on hardware processing capacity.<br><br>Initial load tests on a 2009 2.93 GHz i7 870 processor with 4 cores yielded 12’000 transaction- packets per second with a transaction-packet size of 512 bytes of random data per transaction.<br>However, the transaction processing algorithm is perfectly parallel, such that doubling the computational resources will double the transaction throughput (ceteris paribus). Otherwise put: Faster hardware will deliver more transactions per second in a linear fashion, meaning that a modern midrange performance server CPU, like many AMD EPYC CPUs, with 16 cores instead of 4 would deliver a <b>transaction-packet throughput of 48’000 per second</b>. Assuming that cores did not become any faster in the past 9 years.</p>
                 </div>
               </div>
 
