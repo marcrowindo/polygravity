@@ -170,7 +170,7 @@ h4, h5, h6 {
   }
 
   .tag-line {
-    padding: 0 20px;
+    padding: 0 10px 20px 10px;
   }
 
 .no-transform {
@@ -1071,7 +1071,7 @@ a.btn-nav .btn {
   letter-spacing: -2px;
   margin: 0 0 5px; }
 .intro h1 {
-  font-size: 45px;
+  font-size: 40px;
   font-weight: 900;
   line-height: 80px; }
 .intro .lead {
@@ -2002,14 +2002,6 @@ section.bg-dark .fa, section.bg-dark2 .fa {
   .intro h1 {
     font-size: 48px;
     line-height: 48px; }
-    .intro h1.classic {
-      font-size: 60px;
-      line-height: 60px;
-      margin: 50px 0 50px; }
-    .intro h1.classic2 {
-      font-size: 65px;
-      line-height: 65px;
-      margin: 50px 0 50px; }
 
   section, .section {
     padding-top: 80px;

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="446px" height="551px" viewBox="0 0 446 551" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>fair-exchange</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="fair-exchange" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M445.031717,207.235864 L0.5,207.235864" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M434.231717,204.235864 L445.031717,207.235864 L434.231717,210.235864" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M445.031717,530.235864 L0.5,530.235864" id="Line" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M434.231717,527.235864 L445.031717,530.235864 L434.231717,533.235864" stroke="#292A2B" stroke-linecap="square"></path>
+        <text id="t" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="424" y="228">t</tspan>
+        </text>
+        <text id="t" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="424" y="551">t</tspan>
+        </text>
+        <text id="P2" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="0" y="399">P</tspan>
+            <tspan x="8.72753906" y="399" font-size="12">2</tspan>
+        </text>
+        <text id="TTP" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="0" y="308">TTP</tspan>
+        </text>
+        <text id="P1" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="0" y="495">P</tspan>
+            <tspan x="8.72753906" y="495" font-size="12">1</tspan>
+        </text>
+        <text id="Cp" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="56" y="447">C</tspan>
+            <tspan x="65.7734375" y="447" font-size="12">p</tspan>
+        </text>
+        <text id="C2" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="168" y="447">C</tspan>
+            <tspan x="177.773438" y="447" font-size="12">2</tspan>
+        </text>
+        <text id="X" font-family="GTPressura-Bold, GT Pressura" font-size="18" font-weight="bold" fill="#F25B44">
+            <tspan x="232" y="447">X</tspan>
+        </text>
+        <text id="Cp,2" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="264" y="352">C</tspan>
+            <tspan x="273.773438" y="352" font-size="12">p,2</tspan>
+        </text>
+        <text id="C1,2" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="373" y="352">C</tspan>
+            <tspan x="382.773438" y="352" font-size="12">1,2</tspan>
+        </text>
+        <circle id="Oval-22" stroke="#87BC55" cx="46.5" cy="490.5" r="7.5"></circle>
+        <circle id="Oval-22" stroke="#87BC55" cx="120.5" cy="394.5" r="7.5"></circle>
+        <circle id="Oval-22" stroke="#87BC55" cx="194.5" cy="490.5" r="7.5"></circle>
+        <circle id="Oval-22" stroke="#87BC55" cx="268.5" cy="394.5" r="7.5"></circle>
+        <circle id="Oval-22" stroke="#87BC55" cx="416.5" cy="490.5" r="7.5"></circle>
+        <circle id="Oval-22" stroke="#87BC55" cx="342.5" cy="301.5" r="7.5"></circle>
+        <circle id="Oval-22" stroke="#87BC55" cx="362.5" cy="394.5" r="7.5"></circle>
+        <path d="M54.5,480.5 L111.5,403.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M107.485465,413.965348 L111.5,403.5 L102.663013,410.395481" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M275.5,385.5 L334.5,312.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M330.044504,322.785356 L334.5,312.5 L325.378059,319.013846" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M127.5,403.5 L186.5,480.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M177.54996,473.751905 L186.5,480.5 L182.312594,470.102614" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M347.5,311.5 L413.5,477.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M406.722096,468.572513 L413.5,477.5 L412.297577,466.355756" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M347.5,311.5 L360.5,382.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M355.603929,372.416921 L360.5,382.5 L361.505814,371.336294" stroke="#292A2B" stroke-linecap="square"></path>
+        <text id="P2" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="0" y="80">P</tspan>
+            <tspan x="8.72753906" y="80" font-size="12">2</tspan>
+        </text>
+        <text id="P1" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="0" y="176">P</tspan>
+            <tspan x="8.72753906" y="176" font-size="12">1</tspan>
+        </text>
+        <text id="Cp" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="56" y="128">C</tspan>
+            <tspan x="65.7734375" y="128" font-size="12">p</tspan>
+        </text>
+        <text id="C2" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="168" y="128">C</tspan>
+            <tspan x="177.773438" y="128" font-size="12">2</tspan>
+        </text>
+        <text id="C2,1" font-family="GTPressura-Light, GT Pressura" font-size="18" font-weight="300" fill="#292A2B">
+            <tspan x="253" y="128">C</tspan>
+            <tspan x="262.773438" y="128" font-size="12">2,1</tspan>
+        </text>
+        <circle id="Oval-22" stroke="#87BC55" cx="46.5" cy="171.5" r="7.5"></circle>
+        <circle id="Oval-22" stroke="#87BC55" cx="120.5" cy="75.5" r="7.5"></circle>
+        <circle id="Oval-22" stroke="#87BC55" cx="194.5" cy="171.5" r="7.5"></circle>
+        <circle id="Oval-22" stroke="#87BC55" cx="268.5" cy="75.5" r="7.5"></circle>
+        <path d="M54.5,161.5 L111.5,84.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M107.485465,94.965348 L111.5,84.5 L102.663013,91.3954806" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M203.5,161.5 L260.5,84.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M256.485465,94.965348 L260.5,84.5 L251.663013,91.3954806" stroke="#292A2B" stroke-linecap="square"></path>
+        <path d="M127.5,84.5 L186.5,161.5" id="Line-2" stroke="#292A2B" stroke-linecap="square"></path>
+        <path id="Line-2-decoration-1" d="M177.54996,154.751905 L186.5,161.5 L182.312594,151.102614" stroke="#292A2B" stroke-linecap="square"></path>
+    </g>
+</svg>

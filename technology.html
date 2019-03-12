@@ -18,7 +18,7 @@
   <link rel="shortcut icon" href="img/misc/favicon.png">
   <meta name="description" content="Blockchain-based transaction system | Limitless transaction throughput | Real-time processing | No cryptocurrency required | Military-grade security">
   <meta name="author" content="">
-  <title>Polygravity | Technology
+  <title>Polygravity | Core technology
   </title>
 
   <!-- Bootstrap Core CSS-->
@@ -76,7 +76,7 @@
   <header data-background="img/header/telecommunication_world_map.jpg" class="intro introhalf">
     <!-- Intro Header-->
     <div class="intro-body">
-      <h1>Technology</h1>
+      <h1>Core Technology</h1>
       <h4>Introducing PolyXchange</h4>
     </div>
   </header>
@@ -149,13 +149,10 @@
             <div id="tab1" role="tabpanel" class="tab-pane fade in active">
 
               <div class="mini-intro">
-                <p>The PSDP serves as the transport and session layer protocol, providing encrypted, authorized, real-time message-based communication including state synchronization for replication based high security and availability clusters.</p>
+                <p>The PSDP serves as the transport and session layer protocol, providing encrypted, authorized, real-time message-based communication including state synchronization for replication based high-security and availability clusters.</p>
               </div>
 
-
-
-
-                <div class="explanation-container">
+              <div class="explanation-container">
                 <div class="col-lg-6 col-xs-12 image-container mobile-version" style="display: none">
                   <img src="img/technology/transmission.svg" alt="">
                 </div>
@@ -209,7 +206,7 @@
                 </div>
                 <div class="col-lg-6 col-xs-12 text-container">
                   <h4>Immutable data</h4>
-                  <p>By distributing block hashes amongst communicating parties, the transacting ledgers become interlocked with each other and their data is rendered immutable. As a result, ESDP data can be used as court evidence to prove that occured exchanges were executed under consensus of both trading parties.</p>
+                  <p>By distributing block hashes amongst trading parties, the transacting ledgers become interlocked with each other and their data is rendered immutable. As a result, ESDP data can be used as court evidence to prove that occured exchanges were executed under consensus of both trading parties.</p>
                 </div>
                 <div class="col-lg-6 col-xs-12 image-container desktop-version" >
                   <img src="img/technology/immutable.svg" alt="">
@@ -247,7 +244,7 @@
             <div id="tab3" role="tabpanel" class="tab-pane fade">
 
               <div class="mini-intro">
-                <p>Polygravity's EADP is a modified, inline trusted party, fair exchange/non-repudiation protocol that performs double entry bookkeeping on the application layer level. It enables limitless system scalability and delivers high-end security mechanisms effectively empowering trade in scenarios in which interacting parties do not trust each other.</p>
+                <p>Polygravity's EADP is a modified fair exchange/non-repudiation protocol that lets trading parties sign digital contracts between each other. It then performs double entry bookkeeping on the application layer level.</p>
               </div>
 
               <div class="explanation-container">
@@ -255,46 +252,50 @@
                 <div class="col-lg-5 col-xs-12 text-container">
 
                   <h4>Limitless transaction throughput</h4>
-                  <p>PoyXchange's EADP validates exchanges/transactions <em>locally</em> between two trading parties. As a result the system exhibits a <em>runtime complexity of O(1)</em> meaning that there is no loss in system efficiency when new parties join the network. In other words: Every joining node ads to the global amount of transactions that can be processed in the system in a linear fashion.</p>
+                  <p>PoyXchange's EADP validates transactions <em>locally</em> between two trading parties. As a result the system exhibits a <em>runtime complexity of O(1)</em> meaning that there is no loss in system efficiency when new parties join the network. In other words: Every joining node ads to the global amount of transactions that can be processed in the system in a linear fashion.</p>
                 </div>
 
                 <div class="col-lg-7 col-xs-12 image-container" id="consensus">
-
                   <img src="img/technology/consalgoscalability.svg" alt="">
-
                 </div>
               </div>
 
-
               <div class="explanation-container">
                 <div class="col-lg-6 col-xs-12 image-container desktop-version">
-                  <img src="img/technology/accountants.svg" alt="">
+                  <img src="img/technology/fair-exchange.svg" alt="">
                 </div>
                 <div class="col-lg-6 col-xs-12 text-container">
-                  <h4>Clients & accountants</h4>
-                  <p>The EADP establishes consensus between transacting parties via an agreement mechanism involving accounting parties as illustrated. </p>
-                  <h5>Clients</h5>
-                  <p>Clients are authenticated devices that are allowed to initiate/authorize transactions. You can think of them as the hardware of the actual user. Clients store only settled transaction hashes to minimize storage requirements on the client node.</p>
-
-                  <h5>Accountants</h5>
-                  <span>Accountants are not <em>necessarily</em> third parties. If an enterprise where to use the network, its accounting department could act as its accountant. This way Polygravity's products can be implemented seamlessly into the organisation and the enterprise's transaction data would remain completely private to its own organisation. However, it is alo possible to choose a third party accountant. Private persons might select this option and let Polygravity or other entities do their accounting.<br>Generally, accountants have the following responsibilities:</span>
+                  <h4>Fair exchange</h4>
+                  <span>The EADP establishes consensus between transacting parties via an digital contract signing mechanism that only allows two possible outcomes: </span>
                   <ol>
-                    <li>Ensure trading clients reached consensus on an exchange before it is executed.</li>
-                    <li>Validate, verify, clear and trigger settlement of transactions.</li>
-                    <li>Notarize and store exchange (and if required delete) data in a private ledger/blockchain on their node(s) for their clients under consideration of data protection laws.</li>
-                    <li>Are legally responsible for the execution of the agreed upon transaction.</li>
+                    <li>Both parties end up with a signed contract</li>
+                    <li>Nobody ends up with a signed contract</li>
                   </ol>
 
-                  <h5>Accountant consensus protocol benefits:</h5>
+                  <p>The illustrations shows two scenarios in which two parties P1 and P2 exchange a digital contract:</p>
+
+                  <h5>Upper illustration</h5>
                   <ol>
-                    <li>Transaction throughput capabilities are optimised.</li>
-                    <li>Client nodes can be exceptionally “thin” (see hardware tab) because they can delegate the managing and storing of transaction data to their accountants. This makes PolyXchange ideal for the IoT.</li>
-                    <li>Legal responsibilities are clearly assigned to specific parties involved in a transaction and the fulfillment of legal responsibilities by those parties can be proven.</li>
+                    <li>Party 1 [P1] sends pseudo signed contract [Cp] to P2.</li>
+                    <li>P2 signs contract and sends C2 to P1.</li>
+                    <li>P1 signs contract, stores it in its blockchain and sends C2,1 back to P2.</li>
+                    <li>P2 stores the contract in its blockchain.</li>
+                  </ol>
+
+                   <h5>Lower illustration</h5>
+                  <ol>
+                    <li>Party 1 [P1] sends pseudo signed contract [Cp] to P2.</li>
+                    <li>P2 signs contract and sends C2 to P1.</li>
+                    <li>P1 does not respond anymore and P2 is left without a valid contract.</li>
+                    <li>P2 now sends Cp,2 to the trusted third party Polygravity [TTP]</li>
+                    <li>The TTP holds the decryption key for the pseudo signature of P1 and is able to convert Cp,2 into C1,2</li>
+                    <li>The TTP then sends C1,2 to both, P1 and P2, such that both parties end up with a signed contract.</li>
                   </ol>
 
                 </div>
+
                 <div class="col-lg-6 col-xs-12 image-container mobile-version" id="accountants" style="display: none;">
-                  <img src="img/technology/accountants.svg" alt="">
+                  <img src="img/technology/fair-exchange.svg" alt="">
                 </div>
               </div>
 
@@ -363,7 +364,7 @@
   </section>
 
   <!-- Use Case Section-->
-  <section id="use-case">
+  <!-- <section id="use-case">
     <div class="section action section-small bg-gray2">
       <div class="container wow fadeIn">
         <div class="row use-case-container">
@@ -382,7 +383,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <!-- Footer Section-->
   <section class="section-small footer">
