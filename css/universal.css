@@ -229,6 +229,11 @@ ol {
  font-family: gtpressura;
 }
 
+.subscript {
+  font-size: xx-small;
+  vertical-align: bottom;
+}
+
 .no-pad {
   padding: 0 !important;
   margin: 0 !important; }
