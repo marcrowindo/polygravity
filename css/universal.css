@@ -1927,11 +1927,7 @@ section.bg-dark .fa, section.bg-dark2 .fa {
 }
 
 #tabs p {
-  margin-bottom: 0px;
-}
-
-.image-container.mobile-version {
-  padding-top: 0px !important;
+  /*margin-bottom: 0px;*/
 }
 
 .explanation-container {
