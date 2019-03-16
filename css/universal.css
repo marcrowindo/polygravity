@@ -1948,6 +1948,10 @@ section.bg-dark .fa, section.bg-dark2 .fa {
   height: auto;
 }
 
+.top-image {
+  padding-top: 0px !important;
+}
+
 .image-container.exception {
   display: block !important;
 }
