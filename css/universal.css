@@ -1912,7 +1912,7 @@ section.bg-dark .fa, section.bg-dark2 .fa {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 50px;
+  /*margin-bottom: 50px;*/
 }
 #tabs .mini-intro p {
   text-align: center;
@@ -1924,6 +1924,14 @@ section.bg-dark .fa, section.bg-dark2 .fa {
 
 #tabs .text-container {
   padding-left: 0px;
+}
+
+#tabs p {
+  margin-bottom: 0px;
+}
+
+.image-container.mobile-version {
+  padding-top: 0px !important;
 }
 
 .explanation-container {
