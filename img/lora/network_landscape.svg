@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="338px" height="235px" viewBox="0 0 338 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>network_landscape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="network_landscape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="254.5" cy="46.5" r="18.5"></circle>
+        <path d="M210.908823,54.3483186 C212.070544,54.1197865 213.271283,54 214.5,54 C224.717268,54 233,62.2827321 233,72.5 C233,82.7172679 224.717268,91 214.5,91 C204.282732,91 196,82.7172679 196,72.5 C196,71.8762012 196.030874,71.2596134 196.091177,70.6516814 C194.929456,70.8802135 193.728717,71 192.5,71 C182.282732,71 174,62.7172679 174,52.5 C174,42.2827321 182.282732,34 192.5,34 C202.717268,34 211,42.2827321 211,52.5 C211,53.1237988 210.969126,53.7403866 210.908823,54.3483186 Z" id="Combined-Shape" stroke="#292A2B" fill="#FFFFFF"></path>
+        <path d="M193.893164,100.182233 C194.744852,100.062119 195.615172,100 196.5,100 C206.717268,100 215,108.282732 215,118.5 C215,121.585671 214.244554,124.494897 212.908525,127.052819 C222.467763,127.772474 230,135.756613 230,145.5 C230,155.717268 221.717268,164 211.5,164 C207.600593,164 203.982963,162.793573 201,160.73361 C198.017037,162.793573 194.399407,164 190.5,164 C182.81984,164 176.23275,159.320014 173.434958,152.656271 C171.293276,153.52283 168.952363,154 166.5,154 C156.282732,154 148,145.717268 148,135.5 C148,126.936773 153.81807,119.732429 161.716908,117.624272 C159.383412,114.52818 158,110.675647 158,106.5 C158,96.2827321 166.282732,88 176.5,88 C184.49844,88 191.311336,93.0759187 193.893164,100.182233 Z" id="Combined-Shape" stroke="#292A2B" fill="#FFFFFF"></path>
+        <path d="M65.8623151,87.9892157 C55.9403159,87.6531256 48,79.5038429 48,69.5 C48,59.2827321 56.2827321,51 66.5,51 C73.853801,51 80.2054561,55.2906966 83.1880559,61.5051803 C84.5715392,61.1748858 86.0153462,61 87.5,61 C97.7172679,61 106,69.2827321 106,79.5 C106,86.601522 101.998646,92.7684778 96.1275128,95.8692938 C96.6941562,97.6447327 97,99.5366495 97,101.5 C97,103.196316 96.7716939,104.839308 96.344133,106.399925 C104.716508,108.169289 111,115.60085 111,124.5 C111,134.717268 102.717268,143 92.5,143 C86.9441124,143 81.9602485,140.550875 78.5691279,136.673344 C75.3814442,142.245253 69.3792062,146 62.5,146 C52.2827321,146 44,137.717268 44,127.5 C44,117.586794 51.7970858,109.494695 61.5931215,109.021839 C60.5691574,106.723727 60,104.17833 60,101.5 C60,96.1692821 62.2546309,91.3651615 65.8623151,87.9892157 Z" id="Combined-Shape" stroke="#292A2B" fill="#FFFFFF"></path>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="81.5" cy="192.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="129.5" cy="169.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="139.5" cy="82.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#87BC55" fill="#FFFFFF" cx="267.5" cy="145.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="25.5" cy="35.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="304.5" cy="27.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="139.5" cy="35.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="307.5" cy="195.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="50.5" cy="83.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="304.5" cy="87.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="177.5" cy="206.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="87.5" cy="27.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="25.5" cy="172.5" r="18.5"></circle>
+        <path d="M272.441406,101.97022 C272.80623,103.419746 273,104.937244 273,106.5 C273,116.717268 264.717268,125 254.5,125 C244.282732,125 236,116.717268 236,106.5 C236,96.2827321 244.282732,88 254.5,88 C254.855293,88 255.208247,88.0100156 255.558594,88.0297799 C255.19377,86.5802542 255,85.0627558 255,83.5 C255,73.2827321 263.282732,65 273.5,65 C283.717268,65 292,73.2827321 292,83.5 C292,93.7172679 283.717268,102 273.5,102 C273.144707,102 272.791753,101.989984 272.441406,101.97022 Z" id="Combined-Shape" stroke="#292A2B" fill="#FFFFFF"></path>
+        <circle id="Oval" stroke="#292A2B" fill="#FFFFFF" cx="242.5" cy="192.5" r="18.5"></circle>
+        <text id="A" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="185.418457" y="132">A</tspan>
+        </text>
+        <text id="M" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="124.887695" y="175">M</tspan>
+        </text>
+        <text id="O" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="77.3325195" y="199">O</tspan>
+        </text>
+        <text id="P" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="22.3635254" y="178">P</tspan>
+        </text>
+        <text id="Q" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="46.3325195" y="90">Q</tspan>
+        </text>
+        <text id="R" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="74.184082" y="105">R</tspan>
+        </text>
+        <text id="S" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="84.25" y="34">S</tspan>
+        </text>
+        <text id="T" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="22.3212891" y="42">T</tspan>
+        </text>
+        <text id="N" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="174.026611" y="213">N</tspan>
+        </text>
+        <text id="B" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="136.213379" y="89">B</tspan>
+        </text>
+        <text id="C" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="135.427734" y="42">C</tspan>
+        </text>
+        <text id="E" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="200.477051" y="69">E</tspan>
+        </text>
+        <text id="F" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="251.141846" y="53">F</tspan>
+        </text>
+        <text id="G" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="300.405762" y="34">G</tspan>
+        </text>
+        <text id="H" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="300.453369" y="94">H</tspan>
+        </text>
+        <text id="I" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="263.046143" y="101">I</tspan>
+        </text>
+        <text id="J" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="264.057617" y="152">J</tspan>
+        </text>
+        <text id="K" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="239.447754" y="198">K</tspan>
+        </text>
+        <text id="L" font-family="GTPressura-Light, GT Pressura" font-size="15" font-weight="300" fill="#292A2B">
+            <tspan x="304.321289" y="202">L</tspan>
+        </text>
+    </g>
+</svg>

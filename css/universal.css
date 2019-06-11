@@ -234,6 +234,11 @@ ol {
   vertical-align: bottom;
 }
 
+.superscript {
+  font-size: xx-small;
+  vertical-align: top;
+}
+
 .no-pad {
   padding: 0 !important;
   margin: 0 !important; }
