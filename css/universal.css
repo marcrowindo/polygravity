@@ -1492,6 +1492,83 @@ blockquote {
   -moz-background-size: cover;
   background-size: cover; }
 
+#loraiconnav {
+  max-width: 50px;
+  margin: 10px;
+}
+
+#loraicon {
+  margin-top: 20px;
+  max-width: 150px;
+}
+
+h5#loramembershiptext {
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .carousel-control .icon-next:before {
   font-family: "ionicons";
   content: "\f3d3"; }
@@ -1940,6 +2017,10 @@ section.bg-dark .fa, section.bg-dark2 .fa {
   padding: 70px 0px;
   display: flex;
   align-items: center;
+}
+
+.explanation-container#first{
+  padding-top: 0px !important;
 }
 
 .image-container {
