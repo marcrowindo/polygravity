@@ -544,13 +544,22 @@ a.nav-link-ltr {
 .navbar-custom .navbar-brand .logodark {
   display: none; }
 
+.navbar-custom #loraiconnav {
+  display: none; }
+
 .navbar-custom.top-nav-collapse .navbar-brand .logodark {
+  display: inline-block; }
+
+.navbar-custom.top-nav-collapse #loraiconnav {
   display: inline-block; }
 
 .navbar-custom .navbar-brand .logo {
   display: inline-block; }
 
 .navbar-custom.top-nav-collapse .navbar-brand .logo {
+  display: none; }
+
+  .navbar-custom.top-nav-collapse #loraiconnavwhite {
   display: none; }
 
 .navbar-custom.top-nav-collapse .navbar-brand .logodark {
@@ -1495,6 +1504,13 @@ blockquote {
 #loraiconnav {
   max-width: 50px;
   margin: 10px;
+  margin-left: 15px;
+}
+
+#loraiconnavwhite {
+  max-width: 50px;
+  margin: 10px;
+  margin-left: 15px;
 }
 
 #loraicon {
